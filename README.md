@@ -135,83 +135,83 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for building AI applications, LLM integrations, and autonomous agents.*
 
 * Agent Skills
-  * [trailofbits-skills](https://github.com/trailofbits/skills) ⭐ 7,346 | 🐛 55 | 🌐 Python | 📅 2026-10-02 - Security skills for vulnerability detection, auditing, and testing.
-  * [sentry-skills](https://github.com/getsentry/skills) ⭐ 1,033 | 🐛 26 | 🌐 Python | 📅 2026-10-02 - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
+  * [trailofbits-skills](https://github.com/trailofbits/skills) ⭐ 7,347 | 🐛 55 | 🌐 Python | 📅 2026-10-02 - Security skills for vulnerability detection, auditing, and testing.
+  * [sentry-skills](https://github.com/getsentry/skills) ⭐ 1,034 | 🐛 26 | 🌐 Python | 📅 2026-10-02 - Agent skills the Sentry team uses for code review, pull requests, and Django reviews.
   * [django-ai-plugins](https://github.com/vintasoftware/django-ai-plugins) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-07-23 - Django backend agent skills for Django, DRF, Celery, and Django-specific code review.
 * Orchestration
-  * [langchain](https://github.com/langchain-ai/langchain) ⭐ 147,388 | 🐛 606 | 🌐 Python | 📅 2026-10-02 - A framework for building agents and LLM-powered applications.
-  * [crewai](https://github.com/crewAIInc/crewAI) ⭐ 59,291 | 🐛 523 | 🌐 Python | 📅 2026-10-02 - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
-  * [langgraph](https://github.com/langchain-ai/langgraph) ⭐ 42,632 | 🐛 815 | 🌐 Python | 📅 2026-10-02 - Low-level orchestration framework for building stateful, long-running LLM agents.
-  * [pydantic-ai](https://github.com/pydantic/pydantic-ai) ⭐ 20,366 | 🐛 1,355 | 🌐 Python | 📅 2026-10-03 - A Python agent framework for building generative AI applications with structured schemas.
+  * [langchain](https://github.com/langchain-ai/langchain) ⭐ 147,391 | 🐛 606 | 🌐 Python | 📅 2026-10-02 - A framework for building agents and LLM-powered applications.
+  * [crewai](https://github.com/crewAIInc/crewAI) ⭐ 59,295 | 🐛 522 | 🌐 Python | 📅 2026-10-03 - A framework for orchestrating role-playing autonomous AI agents for collaborative task solving.
+  * [langgraph](https://github.com/langchain-ai/langgraph) ⭐ 42,643 | 🐛 820 | 🌐 Python | 📅 2026-10-03 - Low-level orchestration framework for building stateful, long-running LLM agents.
+  * [pydantic-ai](https://github.com/pydantic/pydantic-ai) ⭐ 20,371 | 🐛 1,361 | 🌐 Python | 📅 2026-10-03 - A Python agent framework for building generative AI applications with structured schemas.
 * Vendor Agent SDKs
-  * [openai-agents](https://github.com/openai/openai-agents-python) ⭐ 29,810 | 🐛 7 | 🌐 Python | 📅 2026-10-02 - OpenAI's framework for building and managing AI agents.
-  * [google-adk](https://github.com/google/adk-python) ⭐ 21,693 | 🐛 437 | 🌐 Python | 📅 2026-10-02 - Google's code-first toolkit for building, evaluating, and deploying AI agents.
-  * [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,207 | 🐛 524 | 🌐 Python | 📅 2026-10-02 - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
+  * [openai-agents](https://github.com/openai/openai-agents-python) ⭐ 29,814 | 🐛 7 | 🌐 Python | 📅 2026-10-02 - OpenAI's framework for building and managing AI agents.
+  * [google-adk](https://github.com/google/adk-python) ⭐ 21,695 | 🐛 435 | 🌐 Python | 📅 2026-10-03 - Google's code-first toolkit for building, evaluating, and deploying AI agents.
+  * [claude-agent-sdk](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,207 | 🐛 525 | 🌐 Python | 📅 2026-10-02 - Anthropic's Python SDK for building AI agents on Claude Code's harness — custom tools, in-process MCP servers, hooks.
 * Model Context Protocol
-  * [fastmcp](https://github.com/PrefectHQ/fastmcp) ⭐ 27,959 | 🐛 434 | 🌐 Python | 📅 2026-10-02 - A high-level, Pythonic framework for building MCP servers and clients.
-  * [mcp](https://github.com/modelcontextprotocol/python-sdk) ⭐ 24,461 | 🐛 430 | 🌐 Python | 📅 2026-10-02 - The official Python SDK for building Model Context Protocol servers and clients.
+  * [fastmcp](https://github.com/PrefectHQ/fastmcp) ⭐ 27,959 | 🐛 437 | 🌐 Python | 📅 2026-10-03 - A high-level, Pythonic framework for building MCP servers and clients.
+  * [mcp](https://github.com/modelcontextprotocol/python-sdk) ⭐ 24,466 | 🐛 432 | 🌐 Python | 📅 2026-10-02 - The official Python SDK for building Model Context Protocol servers and clients.
 * Personal Assistants
-  * [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 250,771 | 🐛 47,987 | 🌐 Python | 📅 2026-10-03 - An adaptive personal AI assistant that grows with you.
-  * [AstrBot](https://github.com/AstrBotDevs/AstrBot) ⭐ 41,303 | 🐛 1,585 | 🌐 Python | 📅 2026-10-02 - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
+  * [hermes-agent](https://github.com/NousResearch/hermes-agent) ⭐ 250,810 | 🐛 47,870 | 🌐 Python | 📅 2026-10-03 - An adaptive personal AI assistant that grows with you.
+  * [AstrBot](https://github.com/AstrBotDevs/AstrBot) ⭐ 41,319 | 🐛 1,581 | 🌐 Python | 📅 2026-10-03 - A multi-platform AI assistant that connects LLMs to chat apps like Telegram, Slack, and QQ, extensible with Python plugins.
 * Prompt Optimization
-  * [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,473 | 🐛 762 | 🌐 Python | 📅 2026-10-02 - A framework for programming, not prompting, language models.
+  * [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,473 | 🐛 764 | 🌐 Python | 📅 2026-10-02 - A framework for programming, not prompting, language models.
 * Data Layer
-  * [mem0](https://github.com/mem0ai/mem0) ⭐ 66,490 | 🐛 780 | 🌐 Python | 📅 2026-10-01 - An intelligent memory layer for AI agents enabling personalized interactions.
-  * [llama-index](https://github.com/run-llama/llama_index) ⭐ 52,386 | 🐛 848 | 🌐 Python | 📅 2026-10-01 - A toolkit for building RAG pipelines and agents over your data.
-  * [openviking](https://github.com/volcengine/OpenViking) ⭐ 39,134 | 🐛 723 | 🌐 Python | 📅 2026-10-02 - A context database for AI agents that unifies memory, resources, and skills.
+  * [mem0](https://github.com/mem0ai/mem0) ⭐ 66,496 | 🐛 781 | 🌐 Python | 📅 2026-10-01 - An intelligent memory layer for AI agents enabling personalized interactions.
+  * [llama-index](https://github.com/run-llama/llama_index) ⭐ 52,388 | 🐛 848 | 🌐 Python | 📅 2026-10-01 - A toolkit for building RAG pipelines and agents over your data.
+  * [openviking](https://github.com/volcengine/OpenViking) ⭐ 39,143 | 🐛 729 | 🌐 Python | 📅 2026-10-03 - A context database for AI agents that unifies memory, resources, and skills.
   * [instructor](https://github.com/567-labs/instructor) ⭐ 13,971 | 🐛 133 | 🌐 Python | 📅 2026-10-01 - A library for extracting structured data from LLMs, powered by Pydantic.
-  * [semantica](https://github.com/semantica-agi/semantica) ⭐ 13,616 | 🐛 119 | 🌐 Python | 📅 2026-10-02 - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
+  * [semantica](https://github.com/semantica-agi/semantica) ⭐ 13,619 | 🐛 120 | 🌐 Python | 📅 2026-10-02 - A graph-native context and knowledge layer for AI agents with reasoning, provenance, and governance.
 * Pre-trained Models
-  * [transformers](https://github.com/huggingface/transformers) ⭐ 166,905 | 🐛 2,361 | 🌐 Python | 📅 2026-10-02 - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
+  * [transformers](https://github.com/huggingface/transformers) ⭐ 166,911 | 🐛 2,360 | 🌐 Python | 📅 2026-10-03 - The model-definition framework for pretrained models in text, computer vision, audio, video, and multimodal tasks, for inference and training.
 * LLM Inference and Serving
-  * [vllm](https://github.com/vllm-project/vllm) ⭐ 93,082 | 🐛 8,479 | 🌐 Python | 📅 2026-10-02 - A high-throughput and memory-efficient inference and serving engine for LLMs.
-  * [sglang](https://github.com/sgl-project/sglang) ⭐ 36,727 | 🐛 5,536 | 🌐 Python | 📅 2026-10-03 - A high-performance serving framework for large language models and multimodal models.
-  * [mlx-lm](https://github.com/ml-explore/mlx-lm) ⭐ 7,203 | 🐛 228 | 🌐 Python | 📅 2026-10-02 - Run and fine-tune large language models on Apple Silicon with MLX.
+  * [vllm](https://github.com/vllm-project/vllm) ⭐ 93,086 | 🐛 8,479 | 🌐 Python | 📅 2026-10-03 - A high-throughput and memory-efficient inference and serving engine for LLMs.
+  * [sglang](https://github.com/sgl-project/sglang) ⭐ 36,735 | 🐛 5,534 | 🌐 Python | 📅 2026-10-03 - A high-performance serving framework for large language models and multimodal models.
+  * [mlx-lm](https://github.com/ml-explore/mlx-lm) ⭐ 7,205 | 🐛 228 | 🌐 Python | 📅 2026-10-02 - Run and fine-tune large language models on Apple Silicon with MLX.
 * LLM Gateways
-  * [litellm](https://github.com/BerriAI/litellm) ⭐ 60,063 | 🐛 5,576 | 🌐 Python | 📅 2026-10-02 - Call 100+ LLMs using OpenAI format.
+  * [litellm](https://github.com/BerriAI/litellm) ⭐ 60,068 | 🐛 5,564 | 🌐 Python | 📅 2026-10-03 - Call 100+ LLMs using OpenAI format.
 * Image and Video Generation
-  * [diffusers](https://github.com/huggingface/diffusers) ⭐ 34,641 | 🐛 1,453 | 🌐 Python | 📅 2026-10-02 - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
+  * [diffusers](https://github.com/huggingface/diffusers) ⭐ 34,644 | 🐛 1,454 | 🌐 Python | 📅 2026-10-02 - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
 * Fine-tuning
-  * [unsloth](https://github.com/unslothai/unsloth) ⭐ 77,142 | 🐛 1,114 | 🌐 Python | 📅 2026-10-02 - Faster, lower-memory LLM fine-tuning, as a Python library or a desktop app.
-  * [peft](https://github.com/huggingface/peft) ⭐ 21,749 | 🐛 104 | 🌐 Python | 📅 2026-10-02 - A library for parameter-efficient fine-tuning of large pretrained models.
-  * [trl](https://github.com/huggingface/trl) ⭐ 19,439 | 🐛 280 | 🌐 Python | 📅 2026-10-02 - A library for post-training transformer language models with SFT, DPO, GRPO, and other trainers.
-  * [axolotl](https://github.com/axolotl-ai-cloud/axolotl) ⭐ 12,512 | 🐛 242 | 🌐 Python | 📅 2026-10-02 - A framework for fine-tuning and post-training large language models.
+  * [unsloth](https://github.com/unslothai/unsloth) ⭐ 77,151 | 🐛 1,121 | 🌐 Python | 📅 2026-10-03 - Faster, lower-memory LLM fine-tuning, as a Python library or a desktop app.
+  * [peft](https://github.com/huggingface/peft) ⭐ 21,749 | 🐛 105 | 🌐 Python | 📅 2026-10-02 - A library for parameter-efficient fine-tuning of large pretrained models.
+  * [trl](https://github.com/huggingface/trl) ⭐ 19,440 | 🐛 280 | 🌐 Python | 📅 2026-10-03 - A library for post-training transformer language models with SFT, DPO, GRPO, and other trainers.
+  * [axolotl](https://github.com/axolotl-ai-cloud/axolotl) ⭐ 12,513 | 🐛 242 | 🌐 Python | 📅 2026-10-03 - A framework for fine-tuning and post-training large language models.
 * Speech
-  * [openai-whisper](https://github.com/openai/whisper) ⭐ 109,885 | 🐛 158 | 🌐 Python | 📅 2026-08-31 - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
-  * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 25,677 | 🐛 162 | 🌐 Python | 📅 2026-10-01 - A Whisper reimplementation on CTranslate2, up to 4 times faster than openai-whisper with less memory.
-  * [funasr](https://github.com/modelscope/FunASR) ⭐ 20,569 | 🐛 36 | 🌐 Python | 📅 2026-10-02 - Industrial-grade speech recognition toolkit with speaker diarization and emotion detection.
+  * [openai-whisper](https://github.com/openai/whisper) ⭐ 109,888 | 🐛 158 | 🌐 Python | 📅 2026-08-31 - A general-purpose automatic speech recognition model trained on 680k hours of multilingual and multitask supervised data.
+  * [faster-whisper](https://github.com/SYSTRAN/faster-whisper) ⭐ 25,679 | 🐛 116 | 🌐 Python | 📅 2026-10-01 - A Whisper reimplementation on CTranslate2, up to 4 times faster than openai-whisper with less memory.
+  * [funasr](https://github.com/modelscope/FunASR) ⭐ 20,570 | 🐛 37 | 🌐 Python | 📅 2026-10-02 - Industrial-grade speech recognition toolkit with speaker diarization and emotion detection.
   * [gTTS](https://github.com/pndurette/gTTS) ⭐ 2,633 | 🐛 24 | 🌐 Python | 📅 2026-04-06 - Python library and CLI tool for converting text to speech using Google Translate TTS.
 
 ### Deep Learning
 
-*Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,000 | 🐛 88 | 📅 2025-05-26.*
+*Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26.*
 
 * Frameworks
-  * [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 200,666 | 🐛 3,243 | 🌐 C++ | 📅 2026-10-02 - An end-to-end machine learning platform from Google.
-  * [pytorch](https://github.com/pytorch/pytorch) ⭐ 103,625 | 🐛 17,593 | 🌐 Python | 📅 2026-10-02 - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+  * [tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 200,668 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-03 - An end-to-end machine learning platform from Google.
+  * [pytorch](https://github.com/pytorch/pytorch) ⭐ 103,632 | 🐛 17,576 | 🌐 Python | 📅 2026-10-03 - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
   * [keras](https://github.com/keras-team/keras) ⭐ 64,348 | 🐛 255 | 🌐 Python | 📅 2026-10-02 - A high-level deep learning library with support for JAX, TensorFlow, and PyTorch backends.
-  * [jax](https://github.com/jax-ml/jax) ⭐ 36,369 | 🐛 2,627 | 🌐 Python | 📅 2026-10-02 - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
-  * [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) ⭐ 31,371 | 🐛 1,094 | 🌐 Python | 📅 2026-09-21 - Deep learning framework to train, deploy, and ship AI products Lightning fast.
+  * [jax](https://github.com/jax-ml/jax) ⭐ 36,370 | 🐛 2,629 | 🌐 Python | 📅 2026-10-03 - A library for high-performance numerical computing with automatic differentiation and JIT compilation.
+  * [pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) ⭐ 31,372 | 🐛 1,095 | 🌐 Python | 📅 2026-09-21 - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 * Reinforcement Learning
   * [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) ⭐ 13,860 | 🐛 89 | 🌐 Python | 📅 2026-09-09 - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
-  * [gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,612 | 🐛 104 | 🌐 Python | 📅 2026-10-02 - A standard API for reinforcement learning environments with popular reference environments ([gym](https://github.com/openai/gym) ⚠️ Archived successor).
+  * [gymnasium](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,613 | 🐛 104 | 🌐 Python | 📅 2026-10-02 - A standard API for reinforcement learning environments with popular reference environments ([gym](https://github.com/openai/gym) ⚠️ Archived successor).
 
 ### Machine Learning
 
-*Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python) ⭐ 74,510 | 🐛 22 | 🌐 Python | 📅 2026-09-30.*
+*Libraries for Machine Learning. Also see [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python) ⭐ 74,511 | 🐛 22 | 🌐 Python | 📅 2026-09-30.*
 
 * General
-  * [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,455 | 🐛 2,163 | 🌐 Python | 📅 2026-10-02 - The most popular Python library for Machine Learning with extensive documentation and community support.
-  * [pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,346 | 🐛 640 | 🌐 Python | 📅 2026-10-01 - A Python library for causal and probabilistic reasoning with graphical models.
+  * [scikit-learn](https://github.com/scikit-learn/scikit-learn) ⭐ 67,456 | 🐛 2,165 | 🌐 Python | 📅 2026-10-02 - The most popular Python library for Machine Learning with extensive documentation and community support.
+  * [pgmpy](https://github.com/pgmpy/pgmpy) ⭐ 3,346 | 🐛 641 | 🌐 Python | 📅 2026-10-01 - A Python library for causal and probabilistic reasoning with graphical models.
   * [feature-engine](https://github.com/feature-engine/feature_engine) ⭐ 2,285 | 🐛 112 | 🌐 Python | 📅 2026-09-19 - sklearn compatible API with the widest toolset for feature engineering and selection.
 * Gradient Boosting
-  * [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,814 | 🐛 445 | 🌐 C++ | 📅 2026-10-02 - A scalable, portable, and distributed gradient boosting library.
-  * [lightgbm](https://github.com/lightgbm-org/LightGBM) ⭐ 18,827 | 🐛 538 | 🌐 C++ | 📅 2026-10-02 - A fast, distributed, high performance gradient boosting framework.
+  * [xgboost](https://github.com/dmlc/xgboost) ⭐ 28,816 | 🐛 447 | 🌐 C++ | 📅 2026-10-02 - A scalable, portable, and distributed gradient boosting library.
+  * [lightgbm](https://github.com/lightgbm-org/LightGBM) ⭐ 18,828 | 🐛 538 | 🌐 C++ | 📅 2026-10-02 - A fast, distributed, high performance gradient boosting framework.
   * [catboost](https://github.com/catboost/catboost) ⭐ 9,132 | 🐛 736 | 🌐 C++ | 📅 2026-10-02 - A fast, scalable, high performance gradient boosting on decision trees library.
 * Time Series Forecasting
-  * [timesfm](https://github.com/google-research/timesfm) ⭐ 34,062 | 🐛 264 | 🌐 Python | 📅 2026-09-29 - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
-  * [prophet](https://github.com/facebook/prophet) ⭐ 20,428 | 🐛 458 | 🌐 Python | 📅 2026-08-27 - A tool for producing forecasts for time series with multiple seasonality and trend changes.
-  * [sktime](https://github.com/sktime/sktime) ⭐ 10,051 | 🐛 2,558 | 🌐 Python | 📅 2026-09-29 - A unified scikit-learn-style framework for forecasting and other time-series learning tasks.
+  * [timesfm](https://github.com/google-research/timesfm) ⭐ 34,067 | 🐛 264 | 🌐 Python | 📅 2026-09-29 - A pretrained foundation model from Google Research for time-series forecasting, with non-commercial default weights.
+  * [prophet](https://github.com/facebook/prophet) ⭐ 20,429 | 🐛 455 | 🌐 Python | 📅 2026-10-03 - A tool for producing forecasts for time series with multiple seasonality and trend changes.
+  * [sktime](https://github.com/sktime/sktime) ⭐ 10,052 | 🐛 2,559 | 🌐 Python | 📅 2026-09-29 - A unified scikit-learn-style framework for forecasting and other time-series learning tasks.
   * [statsforecast](https://github.com/Nixtla/statsforecast) ⭐ 4,920 | 🐛 154 | 🌐 Python | 📅 2026-10-01 - Fast statistical forecasting models such as ARIMA, ETS, and Theta, compiled with numba.
 
 ### Natural Language Processing
@@ -220,12 +220,12 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * General
   * [spacy](https://github.com/explosion/spaCy) ⭐ 33,933 | 🐛 248 | 🌐 Python | 📅 2026-09-30 - A library for industrial-strength natural language processing in Python and Cython.
-  * [gensim](https://github.com/piskvorky/gensim) ⭐ 16,495 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - Topic Modeling for Humans.
+  * [gensim](https://github.com/piskvorky/gensim) ⭐ 16,496 | 🐛 440 | 🌐 Python | 📅 2025-11-01 - Topic Modeling for Humans.
   * [nltk](https://github.com/nltk/nltk) ⭐ 14,731 | 🐛 251 | 🌐 Python | 📅 2026-10-01 - A leading platform for building Python programs to work with human language data.
   * [stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,889 | 🐛 92 | 🌐 Python | 📅 2026-10-01 - The Stanford NLP Group's official Python library, supporting 60+ languages.
 * Chinese
   * [jieba](https://github.com/fxsjy/jieba) ⭐ 35,174 | 🐛 700 | 🌐 Python | 📅 2024-08-21 - The most popular Chinese text segmentation library.
-  * [pypinyin](https://github.com/mozillazg/python-pinyin) ⭐ 5,367 | 🐛 45 | 🌐 Python | 📅 2026-07-20 - Convert Chinese hanzi (漢字) to pinyin (拼音).
+  * [pypinyin](https://github.com/mozillazg/python-pinyin) ⭐ 5,368 | 🐛 45 | 🌐 Python | 📅 2026-07-20 - Convert Chinese hanzi (漢字) to pinyin (拼音).
   * [pangu.py](https://github.com/vinta/pangu.py) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Paranoid text spacing.
 
 ### Computer Vision
@@ -233,14 +233,14 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for image and video analysis, object detection, and OCR.*
 
 * General
-  * [ultralytics](https://github.com/ultralytics/ultralytics) ⭐ 62,164 | 🐛 75 | 🌐 Python | 📅 2026-10-02 - Ultralytics YOLO for object detection, segmentation, pose estimation, classification, and tracking.
-  * [kornia](https://github.com/kornia/kornia) ⭐ 11,394 | 🐛 208 | 🌐 Python | 📅 2026-10-02 - Open Source Differentiable Computer Vision Library for PyTorch.
-  * [fiftyone](https://github.com/voxel51/fiftyone) ⭐ 11,141 | 🐛 723 | 🌐 TypeScript | 📅 2026-10-02 - The open-source tool for building high-quality datasets and computer vision models.
+  * [ultralytics](https://github.com/ultralytics/ultralytics) ⭐ 62,166 | 🐛 75 | 🌐 Python | 📅 2026-10-03 - Ultralytics YOLO for object detection, segmentation, pose estimation, classification, and tracking.
+  * [kornia](https://github.com/kornia/kornia) ⭐ 11,395 | 🐛 212 | 🌐 Python | 📅 2026-10-02 - Open Source Differentiable Computer Vision Library for PyTorch.
+  * [fiftyone](https://github.com/voxel51/fiftyone) ⭐ 11,141 | 🐛 724 | 🌐 TypeScript | 📅 2026-10-03 - The open-source tool for building high-quality datasets and computer vision models.
   * [opencv-python](https://github.com/opencv/opencv-python) ⭐ 5,413 | 🐛 202 | 🌐 Python | 📅 2026-09-04 - Open Source Computer Vision Library.
 * OCR
-  * [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,520 | 🐛 248 | 🌐 Python | 📅 2026-09-16 - Multilingual OCR and document parsing toolkit based on PaddlePaddle.
+  * [paddleocr](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 90,526 | 🐛 248 | 🌐 Python | 📅 2026-09-16 - Multilingual OCR and document parsing toolkit based on PaddlePaddle.
   * [easyocr](https://github.com/JaidedAI/EasyOCR) ⭐ 30,042 | 🐛 532 | 🌐 Python | 📅 2025-12-05 - Ready-to-use OCR with 80+ languages supported.
-  * [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,393 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - A wrapper for the [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) ⭐ 76,807 | 🐛 492 | 🌐 C++ | 📅 2026-09-28 engine.
+  * [pytesseract](https://github.com/madmaze/pytesseract) ⭐ 6,393 | 🐛 21 | 🌐 Python | 📅 2026-09-28 - A wrapper for the [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) ⭐ 76,810 | 🐛 492 | 🌐 C++ | 📅 2026-09-28 engine.
 
 ### Recommender Systems
 
@@ -257,17 +257,17 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Traditional full stack web frameworks. Also see [Web APIs](#web-apis).*
 
 * Synchronous
-  * [django](https://github.com/django/django) ⭐ 91,221 | 🐛 524 | 🌐 Python | 📅 2026-10-02 - A high-level web framework that encourages rapid development and clean, pragmatic design.
-    * [awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,267 | 🐛 5 | 🌐 Python | 📅 2026-09-16
+  * [django](https://github.com/django/django) ⭐ 91,221 | 🐛 525 | 🌐 Python | 📅 2026-10-02 - A high-level web framework that encourages rapid development and clean, pragmatic design.
+    * [awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,268 | 🐛 5 | 🌐 Python | 📅 2026-09-16
   * [flask](https://github.com/pallets/flask) ⭐ 74,796 | 🐛 4 | 🌐 Python | 📅 2026-09-08 - A microframework for Python.
-    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,782 | 🐛 7 | 📅 2026-08-17
+    * [awesome-flask](https://github.com/humiaozuzu/awesome-flask) ⭐ 12,784 | 🐛 7 | 📅 2026-08-17
   * [bottle](https://github.com/bottlepy/bottle) ⭐ 8,792 | 🐛 290 | 🌐 Python | 📅 2026-09-18 - A fast and simple micro-framework distributed as a single file with no dependencies.
   * [fasthtml](https://github.com/AnswerDotAI/fasthtml) ⭐ 7,048 | 🐛 67 | 🌐 Jupyter Notebook | 📅 2026-09-21 - The fastest way to create an HTML app.
   * [pyramid](https://github.com/Pylons/pyramid) ⭐ 4,100 | 🐛 90 | 🌐 Python | 📅 2026-08-04 - A small, fast, down-to-earth, open source Python web framework.
 * Asynchronous
-  * [reflex](https://github.com/reflex-dev/reflex) ⭐ 28,931 | 🐛 341 | 🌐 Python | 📅 2026-10-02 - A framework for building reactive, full-stack web applications entirely with Python.
+  * [reflex](https://github.com/reflex-dev/reflex) ⭐ 28,934 | 🐛 343 | 🌐 Python | 📅 2026-10-03 - A framework for building reactive, full-stack web applications entirely with Python.
   * [tornado](https://github.com/tornadoweb/tornado) ⭐ 22,170 | 🐛 213 | 🌐 Python | 📅 2026-10-02 - A web framework and asynchronous networking library.
-  * [starlette](https://github.com/Kludex/starlette) ⭐ 12,646 | 🐛 60 | 🌐 Python | 📅 2026-10-01 - A lightweight ASGI framework and toolkit for building high-performance async services.
+  * [starlette](https://github.com/Kludex/starlette) ⭐ 12,646 | 🐛 61 | 🌐 Python | 📅 2026-10-01 - A lightweight ASGI framework and toolkit for building high-performance async services.
   * [litestar](https://github.com/litestar-org/litestar) ⭐ 8,488 | 🐛 353 | 🌐 Python | 📅 2026-10-02 - Production-ready, capable and extensible ASGI Web framework.
 
 ### Web APIs
@@ -284,11 +284,11 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [apiflask](https://github.com/apiflask/apiflask) ⭐ 1,138 | 🐛 41 | 🌐 Python | 📅 2026-09-12 - A lightweight Python web API framework based on Flask, supporting marshmallow schemas and Pydantic models.
   * [flask-smorest](https://github.com/marshmallow-code/flask-smorest) ⭐ 717 | 🐛 59 | 🌐 Python | 📅 2026-09-08 - A Flask/Marshmallow-based REST API framework with automatic OpenAPI documentation.
 * Framework Agnostic
-  * [fastapi](https://github.com/fastapi/fastapi) ⭐ 102,770 | 🐛 84 | 🌐 Python | 📅 2026-10-02 - A modern, fast, web framework for building APIs with standard Python type hints.
+  * [fastapi](https://github.com/fastapi/fastapi) ⭐ 102,772 | 🐛 84 | 🌐 Python | 📅 2026-10-02 - A modern, fast, web framework for building APIs with standard Python type hints.
   * [strawberry](https://github.com/strawberry-graphql/strawberry) ⭐ 4,722 | 🐛 312 | 🌐 Python | 📅 2026-10-02 - A GraphQL library that leverages Python type annotations for schema definition.
   * [connexion](https://github.com/spec-first/connexion) ⭐ 4,613 | 🐛 190 | 🌐 Python | 📅 2026-09-07 - A spec-first framework that automatically handles requests based on your OpenAPI specification.
 * RPC
-  * [grpcio](https://github.com/grpc/grpc) ⭐ 45,359 | 🐛 1,354 | 🌐 C++ | 📅 2026-10-02 - HTTP/2-based RPC framework with Python bindings, built by Google.
+  * [grpcio](https://github.com/grpc/grpc) ⭐ 45,359 | 🐛 1,352 | 🌐 C++ | 📅 2026-10-03 - HTTP/2-based RPC framework with Python bindings, built by Google.
 
 ### Web Servers
 
@@ -296,7 +296,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * ASGI
   * [uvicorn](https://github.com/Kludex/uvicorn) ⭐ 11,003 | 🐛 108 | 🌐 Python | 📅 2026-10-02 - A lightning-fast ASGI server implementation.
-  * [granian](https://github.com/emmett-framework/granian) ⭐ 5,680 | 🐛 46 | 🌐 Rust | 📅 2026-10-01 - A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.
+  * [granian](https://github.com/emmett-framework/granian) ⭐ 5,681 | 🐛 47 | 🌐 Rust | 📅 2026-10-01 - A Rust HTTP server for Python applications built on top of Hyper and Tokio, supporting WSGI/ASGI/RSGI.
   * [hypercorn](https://github.com/pgjones/hypercorn) ⭐ 1,615 | 🐛 155 | 🌐 Python | 📅 2025-11-08 - An ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 * WSGI
   * [gunicorn](https://github.com/benoitc/gunicorn) ⭐ 10,693 | 🐛 122 | 🌐 Python | 📅 2026-09-06 - A pre-fork WSGI server with a native ASGI worker, ported from Ruby's Unicorn project.
@@ -333,7 +333,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * OAuth
   * [django-allauth](https://github.com/pennersr/django-allauth) ⭐ 10,379 | 🐛 2 | 🌐 Python | 📅 2026-10-01 - Authentication app for Django that "just works."
   * [authlib](https://github.com/authlib/authlib) ⭐ 5,430 | 🐛 147 | 🌐 Python | 📅 2026-08-31 - A comprehensive library for building OAuth, OpenID Connect, and JWT/JWS/JWE/JWK/JWA.
-  * [django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) ⭐ 3,341 | 🐛 48 | 🌐 Python | 📅 2026-10-02 - An OAuth 2.0 authorization server for Django.
+  * [django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) ⭐ 3,341 | 🐛 45 | 🌐 Python | 📅 2026-10-03 - An OAuth 2.0 authorization server for Django.
   * [oauthlib](https://github.com/oauthlib/oauthlib) ⭐ 2,985 | 🐛 126 | 🌐 Python | 📅 2026-10-02 - A generic and thorough implementation of the OAuth request-signing logic.
 * JWT
   * [pyjwt](https://github.com/jpadilla/pyjwt) ⭐ 5,712 | 🐛 51 | 🌐 Python | 📅 2026-09-29 - JSON Web Token implementation in Python.
@@ -354,14 +354,14 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Content Management Systems.*
 
-* [wagtail](https://github.com/wagtail/wagtail) ⭐ 20,514 | 🐛 1,008 | 🌐 Python | 📅 2026-10-01 - A Django content management system.
+* [wagtail](https://github.com/wagtail/wagtail) ⭐ 20,516 | 🐛 1,008 | 🌐 Python | 📅 2026-10-01 - A Django content management system.
 * [django-cms](https://github.com/django-cms/django-cms) ⭐ 10,676 | 🐛 8 | 🌐 Python | 📅 2026-09-30 - The easy-to-use and developer-friendly enterprise CMS powered by Django.
 
 ### ERP
 
 *Enterprise resource planning frameworks.*
 
-* [odoo](https://github.com/odoo/odoo) ⭐ 54,805 | 🐛 10,687 | 🌐 Python | 📅 2026-10-02 - A suite of open source business apps: CRM, e-commerce, accounting, inventory, and thousands of community modules.
+* [odoo](https://github.com/odoo/odoo) ⭐ 54,809 | 🐛 10,689 | 🌐 Python | 📅 2026-10-03 - A suite of open source business apps: CRM, e-commerce, accounting, inventory, and thousands of community modules.
 
 ### Static Site Generators
 
@@ -378,10 +378,10 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * General
   * [requests](https://github.com/psf/requests) ⭐ 54,371 | 🐛 242 | 🌐 Python | 📅 2026-09-28 - HTTP Requests for Humans.
-  * [aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 215 | 🌐 Python | 📅 2026-10-02 - Asynchronous HTTP client/server framework for asyncio and Python.
+  * [aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,567 | 🐛 217 | 🌐 Python | 📅 2026-10-02 - Asynchronous HTTP client/server framework for asyncio and Python.
   * [httpx](https://github.com/encode/httpx) ⭐ 15,524 | 🐛 140 | 🌐 Python | 📅 2026-10-02 - A next generation HTTP client for Python.
-  * [urllib3](https://github.com/urllib3/urllib3) ⭐ 4,068 | 🐛 250 | 🌐 Python | 📅 2026-10-02 - An HTTP library with thread-safe connection pooling, file post, and more.
-  * [httpx2](https://github.com/pydantic/httpx2) ⭐ 1,511 | 🐛 102 | 🌐 Python | 📅 2026-10-01 - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx](https://github.com/encode/httpx) ⭐ 15,524 | 🐛 140 | 🌐 Python | 📅 2026-10-02 fork).
+  * [urllib3](https://github.com/urllib3/urllib3) ⭐ 4,068 | 🐛 253 | 🌐 Python | 📅 2026-10-02 - An HTTP library with thread-safe connection pooling, file post, and more.
+  * [httpx2](https://github.com/pydantic/httpx2) ⭐ 1,511 | 🐛 104 | 🌐 Python | 📅 2026-10-01 - HTTP/1.1 and HTTP/2 client with sync and async APIs, maintained by Pydantic ([httpx](https://github.com/encode/httpx) ⭐ 15,524 | 🐛 140 | 🌐 Python | 📅 2026-10-02 fork).
 * URL Manipulation
   * [yarl](https://github.com/aio-libs/yarl) ⭐ 1,497 | 🐛 68 | 🌐 Python | 📅 2026-10-02 - Yet another URL library.
 
@@ -390,13 +390,13 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries to automate web scraping and extract web content.*
 
 * Frameworks
-  * [browser-use](https://github.com/browser-use/browser-use) ⭐ 117,008 | 🐛 533 | 🌐 Python | 📅 2026-10-02 - Make websites accessible for AI agents with easy browser automation.
-  * [crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 84,652 | 🐛 225 | 🌐 Python | 📅 2026-09-25 - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
-  * [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,554 | 🐛 313 | 🌐 Python | 📅 2026-10-02 - A fast high-level web crawling and scraping framework.
-  * [stagehand](https://github.com/browserbase/stagehand) ⭐ 25,518 | 🐛 377 | 🌐 TypeScript | 📅 2026-10-02 - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
-  * [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) ⭐ 21,812 | 🐛 182 | 🌐 Python | 📅 2026-09-30 - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
+  * [browser-use](https://github.com/browser-use/browser-use) ⭐ 117,019 | 🐛 531 | 🌐 Python | 📅 2026-10-03 - Make websites accessible for AI agents with easy browser automation.
+  * [crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 84,662 | 🐛 225 | 🌐 Python | 📅 2026-09-25 - An open-source, LLM-friendly web crawler that provides lightning-fast, structured data extraction specifically designed for AI agents.
+  * [scrapy](https://github.com/scrapy/scrapy) ⭐ 64,557 | 🐛 313 | 🌐 Python | 📅 2026-10-02 - A fast high-level web crawling and scraping framework.
+  * [stagehand](https://github.com/browserbase/stagehand) ⭐ 25,521 | 🐛 377 | 🌐 TypeScript | 📅 2026-10-02 - A fast and token-efficient browser automation SDK to extract data and perform self-healing actions on web pages.
+  * [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) ⭐ 21,828 | 🐛 182 | 🌐 Python | 📅 2026-09-30 - A fast browser agent that picks actions from an indexed table of page elements through TypeSafe's hosted Jev API, using a small LLM only to type text.
 * Content Extraction
-  * [trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,908 | 🐛 57 | 🌐 Python | 📅 2026-10-02 - A tool for gathering text and metadata from the web, with built-in content filtering.
+  * [trafilatura](https://github.com/adbar/trafilatura) ⭐ 6,907 | 🐛 57 | 🌐 Python | 📅 2026-10-02 - A tool for gathering text and metadata from the web, with built-in content filtering.
   * [feedparser](https://github.com/kurtmckee/feedparser) ⭐ 2,433 | 🐛 113 | 🌐 Python | 📅 2026-09-07 - Universal feed parser.
   * [markdownify](https://github.com/matthewwithanm/python-markdownify) ⭐ 2,252 | 🐛 52 | 🌐 Python | 📅 2026-06-30 - Convert HTML to Markdown, with customizable tag handling.
 
@@ -415,9 +415,9 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries that implement Object-Relational Mapping or data mapping techniques.*
 
 * Relational Databases
-  * [django.db.models](https://github.com/django/django) ⭐ 91,221 | 🐛 524 | 🌐 Python | 📅 2026-10-02 - (part of Django) The Django [ORM](https://docs.djangoproject.com/en/stable/topics/db/models/).
+  * [django.db.models](https://github.com/django/django) ⭐ 91,221 | 🐛 525 | 🌐 Python | 📅 2026-10-02 - (part of Django) The Django [ORM](https://docs.djangoproject.com/en/stable/topics/db/models/).
   * [sqlmodel](https://github.com/fastapi/sqlmodel) ⭐ 18,357 | 🐛 57 | 🌐 Python | 📅 2026-10-02 - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
-  * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,196 | 🐛 211 | 🌐 Python | 📅 2026-10-02 - The Python SQL Toolkit and Object Relational Mapper.
+  * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,197 | 🐛 211 | 🌐 Python | 📅 2026-10-02 - The Python SQL Toolkit and Object Relational Mapper.
     * [awesome-sqlalchemy](https://github.com/dahlia/awesome-sqlalchemy) ⭐ 3,064 | 🐛 11 | 🌐 Python | 📅 2026-06-08
   * [peewee](https://github.com/coleifer/peewee) ⭐ 11,996 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - A small, expressive ORM.
 * NoSQL Databases
@@ -431,7 +431,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for connecting and operating databases.*
 
 * PostgreSQL - [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) ⭐ 12,103 | 🐛 84 | 📅 2026-08-31
-  * [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,097 | 🐛 274 | 🌐 Python | 📅 2026-10-02 - A fast PostgreSQL Database Client Library for Python/asyncio.
+  * [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,097 | 🐛 273 | 🌐 Python | 📅 2026-10-03 - A fast PostgreSQL Database Client Library for Python/asyncio.
   * [psycopg](https://github.com/psycopg/psycopg) ⭐ 2,504 | 🐛 63 | 🌐 Python | 📅 2026-10-02 - A PostgreSQL adapter for Python, the successor to psycopg2.
 * MySQL - [awesome-mysql](https://github.com/shlomi-noach/awesome-mysql) ⭐ 2,614 | 🐛 20 | 🌐 Python | 📅 2026-09-22
   * [pymysql](https://github.com/PyMySQL/PyMySQL) ⭐ 7,852 | 🐛 16 | 🌐 Python | 📅 2026-10-02 - A pure-Python MySQL and MariaDB client library, based on PEP 249.
@@ -459,9 +459,9 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [duckdb](https://github.com/duckdb/duckdb) ⭐ 41,875 | 🐛 962 | 🌐 C++ | 📅 2026-10-02 - An in-process SQL OLAP database management system; optimized for analytics and fast queries, similar to SQLite but for analytical workloads.
   * [chdb](https://github.com/chdb-io/chdb) ⭐ 2,911 | 🐛 43 | 🌐 Python | 📅 2026-10-02 - In-process OLAP SQL engine with the full ClickHouse dialect, zero-copy pandas/Arrow interop, and federation to remote ClickHouse clusters via `remoteSecure()`.
 * Vector
-  * [chromadb](https://github.com/chroma-core/chroma) ⭐ 29,425 | 🐛 909 | 🌐 Rust | 📅 2026-10-02 - An open-source embedding database for building AI applications with embeddings and semantic search.
-  * [zvec](https://github.com/alibaba/zvec) ⭐ 16,057 | 🐛 65 | 🌐 C++ | 📅 2026-09-29 - A lightweight, in-process vector database that embeds directly into applications.
-  * [lancedb](https://github.com/lancedb/lancedb) ⭐ 11,585 | 🐛 697 | 🌐 Rust | 📅 2026-10-02 - A developer-friendly embedded retrieval database for multimodal AI.
+  * [chromadb](https://github.com/chroma-core/chroma) ⭐ 29,428 | 🐛 910 | 🌐 Rust | 📅 2026-10-02 - An open-source embedding database for building AI applications with embeddings and semantic search.
+  * [zvec](https://github.com/alibaba/zvec) ⭐ 16,058 | 🐛 65 | 🌐 C++ | 📅 2026-09-29 - A lightweight, in-process vector database that embeds directly into applications.
+  * [lancedb](https://github.com/lancedb/lancedb) ⭐ 11,585 | 🐛 745 | 🌐 Rust | 📅 2026-10-03 - A developer-friendly embedded retrieval database for multimodal AI.
 * Key-Value & Document
   * [tinydb](https://github.com/msiemens/tinydb) ⭐ 7,572 | 🐛 14 | 🌐 Python | 📅 2026-09-18 - A tiny, document-oriented database.
 
@@ -490,8 +490,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * [orjson](https://github.com/ijl/orjson) ⭐ 8,242 | 🐛 0 | 🌐 Python | 📅 2026-09-29 - Fast, correct JSON library.
 * [marshmallow](https://github.com/marshmallow-code/marshmallow) ⭐ 7,242 | 🐛 145 | 🌐 Python | 📅 2026-10-01 - A lightweight library for converting complex objects to and from simple Python datatypes.
-* [msgspec](https://github.com/msgspec/msgspec) ⭐ 4,144 | 🐛 225 | 🌐 Python | 📅 2026-10-02 - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
-* [msgpack](https://github.com/msgpack/msgpack-python) ⭐ 2,107 | 🐛 12 | 🌐 Python | 📅 2026-10-02 - MessagePack serializer implementation for Python.
+* [msgspec](https://github.com/msgspec/msgspec) ⭐ 4,144 | 🐛 226 | 🌐 Python | 📅 2026-10-02 - A fast serialization and validation library with built-in support for JSON, MessagePack, YAML, and TOML.
+* [msgpack](https://github.com/msgpack/msgpack-python) ⭐ 2,107 | 🐛 13 | 🌐 Python | 📅 2026-10-02 - MessagePack serializer implementation for Python.
 
 **Data & Science**
 
@@ -499,8 +499,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for data analysis.*
 
-* [pandas](https://github.com/pandas-dev/pandas) ⭐ 49,899 | 🐛 2,445 | 🌐 Python | 📅 2026-10-02 - A library providing high-performance, easy-to-use data structures and data analysis tools.
-* [polars](https://github.com/pola-rs/polars) ⭐ 39,913 | 🐛 2,928 | 🌐 Rust | 📅 2026-10-02 - A fast DataFrame library implemented in Rust with a Python API.
+* [pandas](https://github.com/pandas-dev/pandas) ⭐ 49,901 | 🐛 2,456 | 🌐 Python | 📅 2026-10-03 - A library providing high-performance, easy-to-use data structures and data analysis tools.
+* [polars](https://github.com/pola-rs/polars) ⭐ 39,914 | 🐛 2,928 | 🌐 Rust | 📅 2026-10-02 - A fast DataFrame library implemented in Rust with a Python API.
 * [ibis-framework](https://github.com/ibis-project/ibis) ⭐ 6,671 | 🐛 546 | 🌐 Python | 📅 2026-10-02 - A portable Python dataframe library with a single API for 20+ backends.
 
 ### Data Ingestion / ETL
@@ -511,44 +511,44 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [dlt](https://github.com/dlt-hub/dlt) ⭐ 5,925 | 🐛 452 | 🌐 Python | 📅 2026-10-02 - A Python library for building data pipelines with automatic schema inference, incremental loading, and support for multiple sources and destinations.
   * [awswrangler](https://github.com/aws/aws-sdk-pandas) ⭐ 4,120 | 🐛 51 | 🌐 Python | 📅 2026-09-28 - Pandas integration with AWS services like Athena, Glue, Redshift, S3, and DynamoDB.
 * Financial Data
-  * [openbb](https://github.com/openbq-org/OpenBB) ⭐ 73,763 | 🐛 85 | 🌐 Python | 📅 2026-10-02 - A financial data platform for analysts, quants and AI agents.
-  * [yfinance](https://github.com/ranaroussi/yfinance) ⭐ 25,418 | 🐛 108 | 🌐 Python | 📅 2026-09-30 - Easy Pythonic way to download market and financial data from Yahoo Finance.
-  * [akshare](https://github.com/akfamily/akshare) ⭐ 22,813 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - A financial data interface library, with data provided for academic research only.
-  * [edgartools](https://github.com/dgunning/edgartools) ⭐ 2,762 | 🐛 27 | 🌐 Python | 📅 2026-10-02 - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
+  * [openbb](https://github.com/openbq-org/OpenBB) ⭐ 73,768 | 🐛 85 | 🌐 Python | 📅 2026-10-02 - A financial data platform for analysts, quants and AI agents.
+  * [yfinance](https://github.com/ranaroussi/yfinance) ⭐ 25,420 | 🐛 108 | 🌐 Python | 📅 2026-09-30 - Easy Pythonic way to download market and financial data from Yahoo Finance.
+  * [akshare](https://github.com/akfamily/akshare) ⭐ 22,814 | 🐛 0 | 🌐 Python | 📅 2026-09-30 - A financial data interface library, with data provided for academic research only.
+  * [edgartools](https://github.com/dgunning/edgartools) ⭐ 2,763 | 🐛 27 | 🌐 Python | 📅 2026-10-02 - Library for downloading structured data from SEC EDGAR filings and XBRL financial statements.
 
 ### Data Validation
 
 *Libraries for validating data.*
 
 * [pydantic](https://github.com/pydantic/pydantic) ⭐ 28,926 | 🐛 584 | 🌐 Python | 📅 2026-10-02 - Data validation using Python type hints.
-* [great-expectations](https://github.com/fivetran/great_expectations) ⭐ 11,855 | 🐛 60 | 🌐 Python | 📅 2026-10-02 - A data quality framework for validating, documenting, and profiling data with declarative expectations.
+* [great-expectations](https://github.com/fivetran/great_expectations) ⭐ 11,856 | 🐛 60 | 🌐 Python | 📅 2026-10-02 - A data quality framework for validating, documenting, and profiling data with declarative expectations.
 * [jsonschema](https://github.com/python-jsonschema/jsonschema) ⭐ 4,988 | 🐛 54 | 🌐 Python | 📅 2026-09-29 - An implementation of [JSON Schema](https://json-schema.org/) for Python.
-* [pandera](https://github.com/unionai-oss/pandera) ⭐ 4,472 | 🐛 463 | 🌐 Python | 📅 2026-09-26 - A data validation library for dataframes, with support for pandas, polars, PySpark, and more.
+* [pandera](https://github.com/unionai-oss/pandera) ⭐ 4,472 | 🐛 461 | 🌐 Python | 📅 2026-10-03 - A data validation library for dataframes, with support for pandas, polars, PySpark, and more.
 
 ### Data Visualization
 
 *Libraries for visualizing data. Also see [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization) ⭐ 35,032 | 🐛 26 | 📅 2026-09-08.*
 
 * Plotting
-  * [matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,317 | 🐛 1,496 | 🌐 Python | 📅 2026-10-02 - A comprehensive library for creating static, animated, and interactive visualizations.
-  * [bokeh](https://github.com/bokeh/bokeh) ⭐ 20,455 | 🐛 846 | 🌐 TypeScript | 📅 2026-10-02 - Interactive Web Plotting for Python.
+  * [matplotlib](https://github.com/matplotlib/matplotlib) ⭐ 23,317 | 🐛 1,496 | 🌐 Python | 📅 2026-10-03 - A comprehensive library for creating static, animated, and interactive visualizations.
+  * [bokeh](https://github.com/bokeh/bokeh) ⭐ 20,455 | 🐛 846 | 🌐 TypeScript | 📅 2026-10-03 - Interactive Web Plotting for Python.
   * [plotly](https://github.com/plotly/plotly.py) ⭐ 18,819 | 🐛 728 | 🌐 Python | 📅 2026-10-01 - Interactive graphing library for Python.
   * [seaborn](https://github.com/mwaskom/seaborn) ⭐ 14,053 | 🐛 239 | 🌐 Python | 📅 2026-07-06 - Statistical data visualization using Matplotlib.
   * [altair](https://github.com/vega/altair) ⭐ 10,489 | 🐛 158 | 🌐 Python | 📅 2026-10-01 - Declarative statistical visualization library for Python.
 * Specialized
-  * [graphify](https://github.com/Graphify-Labs/graphify) ⭐ 123,336 | 🐛 1,521 | 🌐 Python | 📅 2026-10-02 - Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
+  * [graphify](https://github.com/Graphify-Labs/graphify) ⭐ 123,370 | 🐛 1,523 | 🌐 Python | 📅 2026-10-02 - Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph.
   * [graphviz](https://github.com/xflr6/graphviz) ⭐ 1,814 | 🐛 10 | 🌐 Python | 📅 2026-07-11 - Simple Python interface for creating and rendering Graphviz graphs.
   * [cartopy](https://github.com/SciTools/cartopy) ⭐ 1,621 | 🐛 327 | 🌐 Python | 📅 2026-10-01 - A cartographic python library with matplotlib support.
 * Dashboards and Apps
-  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,873 | 🐛 1,182 | 🌐 Python | 📅 2026-10-02 - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
-  * [gradio](https://github.com/gradio-app/gradio) ⭐ 43,655 | 🐛 101 | 🌐 Python | 📅 2026-10-02 - Build and share machine learning apps, all in Python.
-  * [dash](https://github.com/plotly/dash) ⭐ 24,440 | 🐛 428 | 🌐 Python | 📅 2026-10-02 - A framework for building data apps and dashboards in pure Python, built on Plotly.
+  * [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,880 | 🐛 1,185 | 🌐 Python | 📅 2026-10-03 - A framework which lets you build dashboards, generate reports, or create chat apps in minutes.
+  * [gradio](https://github.com/gradio-app/gradio) ⭐ 43,660 | 🐛 101 | 🌐 Python | 📅 2026-10-02 - Build and share machine learning apps, all in Python.
+  * [dash](https://github.com/plotly/dash) ⭐ 24,439 | 🐛 431 | 🌐 Python | 📅 2026-10-02 - A framework for building data apps and dashboards in pure Python, built on Plotly.
 
 ### Geolocation
 
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
-* [geodjango](https://github.com/django/django) ⭐ 91,221 | 🐛 524 | 🌐 Python | 📅 2026-10-02 - (part of Django) A world-class [geographic web framework](https://docs.djangoproject.com/en/stable/ref/contrib/gis/).
+* [geodjango](https://github.com/django/django) ⭐ 91,221 | 🐛 525 | 🌐 Python | 📅 2026-10-02 - (part of Django) A world-class [geographic web framework](https://docs.djangoproject.com/en/stable/ref/contrib/gis/).
 * [geopandas](https://github.com/geopandas/geopandas) ⭐ 5,272 | 🐛 421 | 🌐 Python | 📅 2026-09-28 - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 * [geopy](https://github.com/geopy/geopy) ⭐ 4,867 | 🐛 58 | 🌐 Python | 📅 2026-07-12 - Python Geocoding Toolbox.
 * [geojson](https://github.com/jazzband/geojson) ⭐ 997 | 🐛 26 | 🌐 Python | 📅 2026-06-06 - Python bindings and utilities for GeoJSON.
@@ -558,19 +558,19 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for scientific computing. Also see [Python-for-Scientists](https://github.com/TomNicholas/Python-for-Scientists) ⭐ 376 | 🐛 3 | 📅 2025-06-27.*
 
 * Core
-  * [numpy](https://github.com/numpy/numpy) ⭐ 32,900 | 🐛 2,250 | 🌐 Python | 📅 2026-10-02 - A fundamental package for scientific computing with Python.
-  * [scipy](https://github.com/scipy/scipy) ⭐ 15,072 | 🐛 1,860 | 🌐 Python | 📅 2026-10-02 - Fundamental algorithms for scientific computing in Python.
-  * [numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,819 | 🌐 Python | 📅 2026-10-02 - A NumPy-aware JIT compiler for Python, using LLVM.
+  * [numpy](https://github.com/numpy/numpy) ⭐ 32,900 | 🐛 2,251 | 🌐 Python | 📅 2026-10-02 - A fundamental package for scientific computing with Python.
+  * [scipy](https://github.com/scipy/scipy) ⭐ 15,072 | 🐛 1,862 | 🌐 Python | 📅 2026-10-02 - Fundamental algorithms for scientific computing in Python.
+  * [numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 - A NumPy-aware JIT compiler for Python, using LLVM.
 * Symbolic Mathematics
-  * [sympy](https://github.com/sympy/sympy) ⭐ 14,985 | 🐛 6,017 | 🌐 Python | 📅 2026-10-02 - A Python library for symbolic mathematics.
+  * [sympy](https://github.com/sympy/sympy) ⭐ 14,985 | 🐛 6,019 | 🌐 Python | 📅 2026-10-02 - A Python library for symbolic mathematics.
 * Statistics
-  * [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,669 | 🐛 2,810 | 🌐 Python | 📅 2026-10-02 - Statistical modeling and econometrics in Python.
+  * [statsmodels](https://github.com/statsmodels/statsmodels) ⭐ 11,668 | 🐛 2,810 | 🌐 Python | 📅 2026-10-02 - Statistical modeling and econometrics in Python.
 * Biology and Chemistry
-  * [biopython](https://github.com/biopython/biopython) ⭐ 5,218 | 🐛 628 | 🌐 Python | 📅 2026-10-02 - Biopython is a set of freely available tools for biological computation.
-  * [rdkit](https://github.com/rdkit/rdkit) ⭐ 3,604 | 🐛 93 | 🌐 HTML | 📅 2026-09-30 - Cheminformatics and Machine Learning Software.
+  * [biopython](https://github.com/biopython/biopython) ⭐ 5,218 | 🐛 626 | 🌐 Python | 📅 2026-10-02 - Biopython is a set of freely available tools for biological computation.
+  * [rdkit](https://github.com/rdkit/rdkit) ⭐ 3,604 | 🐛 91 | 🌐 HTML | 📅 2026-10-03 - Cheminformatics and Machine Learning Software.
 * Physics and Engineering
-  * [astropy](https://github.com/astropy/astropy) ⭐ 5,324 | 🐛 1,423 | 🌐 Python | 📅 2026-10-02 - A community Python library for Astronomy.
-  * [pint](https://github.com/hgrecco/pint) ⭐ 2,808 | 🐛 291 | 🌐 Python | 📅 2026-10-02 - Operate and manipulate physical quantities with units and dimensional analysis.
+  * [astropy](https://github.com/astropy/astropy) ⭐ 5,324 | 🐛 1,424 | 🌐 Python | 📅 2026-10-02 - A community Python library for Astronomy.
+  * [pint](https://github.com/hgrecco/pint) ⭐ 2,808 | 🐛 292 | 🌐 Python | 📅 2026-10-02 - Operate and manipulate physical quantities with units and dimensional analysis.
   * [obspy](https://github.com/obspy/obspy) ⭐ 1,337 | 🐛 318 | 🌐 Python | 📅 2026-09-29 - A Python toolbox for seismology.
 * Simulation and Modeling
   * [pymc](https://github.com/pymc-devs/pymc) ⭐ 9,790 | 🐛 518 | 🌐 Python | 📅 2026-10-02 - Probabilistic programming and Bayesian modeling in Python.
@@ -581,17 +581,17 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * Computational Geometry
   * [shapely](https://github.com/shapely/shapely) ⭐ 4,517 | 🐛 231 | 🌐 Python | 📅 2026-10-02 - Manipulation and analysis of geometric objects in the Cartesian plane.
 * Other
-  * [manim](https://github.com/ManimCommunity/manim) ⭐ 41,197 | 🐛 502 | 🌐 Python | 📅 2026-10-02 - An animation engine for explanatory math videos.
+  * [manim](https://github.com/ManimCommunity/manim) ⭐ 41,201 | 🐛 502 | 🌐 Python | 📅 2026-10-02 - An animation engine for explanatory math videos.
   * [colour-science](https://github.com/colour-science/colour) ⭐ 2,662 | 🐛 94 | 🌐 Python | 📅 2026-10-02 - Implementing a comprehensive number of colour theory transformations and algorithms.
 
 ### Quantum Computing
 
 *Libraries for quantum computing.*
 
-* [qiskit](https://github.com/Qiskit/qiskit) ⭐ 7,853 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02 - An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
-* [cirq](https://github.com/quantumlib/Cirq) ⭐ 5,076 | 🐛 123 | 🌐 Python | 📅 2026-10-02 - A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
-* [pennylane](https://github.com/PennyLaneAI/pennylane) ⭐ 3,483 | 🐛 454 | 🌐 Python | 📅 2026-10-02 - A cross-platform library for quantum computing, quantum machine learning, and quantum chemistry.
-* [qutip](https://github.com/qutip/qutip) ⭐ 2,081 | 🐛 120 | 🌐 Python | 📅 2026-09-29 - Quantum Toolbox in Python.
+* [qiskit](https://github.com/Qiskit/qiskit) ⭐ 7,854 | 🐛 1,052 | 🌐 Python | 📅 2026-10-02 - An IBM-backed quantum SDK for building, simulating, and running circuits on real quantum hardware.
+* [cirq](https://github.com/quantumlib/Cirq) ⭐ 5,077 | 🐛 123 | 🌐 Python | 📅 2026-10-02 - A Google-developed framework focused on hardware-aware quantum circuit design for NISQ devices.
+* [pennylane](https://github.com/PennyLaneAI/pennylane) ⭐ 3,483 | 🐛 455 | 🌐 Python | 📅 2026-10-03 - A cross-platform library for quantum computing, quantum machine learning, and quantum chemistry.
+* [qutip](https://github.com/qutip/qutip) ⭐ 2,081 | 🐛 122 | 🌐 Python | 📅 2026-09-29 - Quantum Toolbox in Python.
 
 **Developer Tools**
 
@@ -600,22 +600,22 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Python implementation of data structures, algorithms and design patterns. Also see [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) ⭐ 25,598 | 🐛 0 | 📅 2026-09-22.*
 
 * Algorithms
-  * [thealgorithms](https://github.com/TheAlgorithms/Python) ⭐ 225,212 | 🐛 7 | 🌐 Python | 📅 2026-10-01 - All Algorithms implemented in Python.
+  * [thealgorithms](https://github.com/TheAlgorithms/Python) ⭐ 225,217 | 🐛 7 | 🌐 Python | 📅 2026-10-01 - All Algorithms implemented in Python.
   * [algorithms](https://github.com/keon/algorithms) ⭐ 25,558 | 🐛 14 | 🌐 Python | 📅 2026-09-25 - Minimal examples of data structures and algorithms.
   * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) ⭐ 3,980 | 🐛 41 | 🌐 Python | 📅 2024-03-08 - Fast and pure-Python implementation of sorted collections.
 * Design Patterns
-  * [python-patterns](https://github.com/faif/python-patterns) ⭐ 43,031 | 🐛 12 | 🌐 Python | 📅 2026-10-02 - A collection of design patterns and idioms in Python.
-  * [python-statemachine](https://github.com/fgmacedo/python-statemachine) ⭐ 1,319 | 🐛 21 | 🌐 Python | 📅 2026-09-14 - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
+  * [python-patterns](https://github.com/faif/python-patterns) ⭐ 43,033 | 🐛 12 | 🌐 Python | 📅 2026-10-02 - A collection of design patterns and idioms in Python.
+  * [python-statemachine](https://github.com/fgmacedo/python-statemachine) ⭐ 1,320 | 🐛 21 | 🌐 Python | 📅 2026-09-14 - Expressive statecharts and finite state machines with a declarative API, in sync and async codebases.
 
 ### Interactive Interpreter
 
 *Interactive Python interpreters (REPL).*
 
-* [marimo](https://github.com/marimo-team/marimo) ⭐ 22,993 | 🐛 610 | 🌐 Python | 📅 2026-10-02 - A reactive notebook for Python, stored as pure Python and runnable as a script or app.
+* [marimo](https://github.com/marimo-team/marimo) ⭐ 22,994 | 🐛 611 | 🌐 Python | 📅 2026-10-03 - A reactive notebook for Python, stored as pure Python and runnable as a script or app.
 * [ipython](https://github.com/ipython/ipython) ⭐ 16,785 | 🐛 1,305 | 🌐 Python | 📅 2026-10-01 - A powerful interactive Python shell, and the kernel behind Jupyter notebooks.
-* [notebook](https://github.com/jupyter/notebook) ⭐ 13,409 | 🐛 1,890 | 🌐 Jupyter Notebook | 📅 2026-09-28 - A web-based notebook environment for interactive computing.
-  * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,678 | 🐛 8 | 📅 2026-10-01
-* [ptpython](https://github.com/prompt-toolkit/ptpython) ⭐ 5,457 | 🐛 265 | 🌐 Python | 📅 2025-11-21 - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,592 | 🐛 736 | 🌐 Python | 📅 2026-07-26.
+* [notebook](https://github.com/jupyter/notebook) ⭐ 13,409 | 🐛 1,891 | 🌐 Jupyter Notebook | 📅 2026-09-28 - A web-based notebook environment for interactive computing.
+  * [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,678 | 🐛 8 | 📅 2026-10-03
+* [ptpython](https://github.com/prompt-toolkit/ptpython) ⭐ 5,456 | 🐛 265 | 🌐 Python | 📅 2025-11-21 - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,592 | 🐛 737 | 🌐 Python | 📅 2026-07-26.
 
 ### Code Analysis
 
@@ -623,23 +623,23 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * Type Checkers - [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) ⭐ 1,987 | 🐛 6 | 📅 2026-09-23
   * [mypy](https://github.com/python/mypy) ⭐ 20,657 | 🐛 3,240 | 🌐 Python | 📅 2026-10-02 - A static type checker for Python.
-  * [ty](https://github.com/astral-sh/ty) ⭐ 19,791 | 🐛 917 | 🌐 Python | 📅 2026-10-02 - An extremely fast Python type checker and language server.
-  * [pyright](https://github.com/microsoft/pyright) ⭐ 15,671 | 🐛 330 | 🌐 Python | 📅 2026-10-02 - Full-featured static type checker for Python from Microsoft, the engine behind Pylance.
-  * [pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,043 | 🐛 683 | 🌐 Rust | 📅 2026-10-02 - A fast type checker and language server for Python.
+  * [ty](https://github.com/astral-sh/ty) ⭐ 19,792 | 🐛 917 | 🌐 Python | 📅 2026-10-02 - An extremely fast Python type checker and language server.
+  * [pyright](https://github.com/microsoft/pyright) ⭐ 15,671 | 🐛 331 | 🌐 Python | 📅 2026-10-02 - Full-featured static type checker for Python from Microsoft, the engine behind Pylance.
+  * [pyrefly](https://github.com/facebook/pyrefly) ⭐ 7,043 | 🐛 684 | 🌐 Rust | 📅 2026-10-02 - A fast type checker and language server for Python.
 * General
-  * [vulture](https://github.com/jendrikseipp/vulture) ⭐ 4,831 | 🐛 71 | 🌐 Python | 📅 2026-09-25 - A tool for finding and analyzing dead Python code.
+  * [vulture](https://github.com/jendrikseipp/vulture) ⭐ 4,832 | 🐛 71 | 🌐 Python | 📅 2026-09-25 - A tool for finding and analyzing dead Python code.
   * [prospector](https://github.com/prospector-dev/prospector) ⭐ 2,083 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - A tool to analyze Python code.
   * [import-linter](https://github.com/seddonym/import-linter) ⭐ 1,204 | 🐛 74 | 🌐 Python | 📅 2026-09-16 - A linter that enforces architectural constraints on imports between Python modules.
-  * [complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 870 | 🐛 12 | 🌐 Rust | 📅 2026-10-01 - Cognitive complexity analysis for Python code, written in Rust.
+  * [complexipy](https://github.com/rohaquinlop/complexipy) ⭐ 871 | 🐛 12 | 🌐 Rust | 📅 2026-10-01 - Cognitive complexity analysis for Python code, written in Rust.
 * Git Hooks
-  * [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,608 | 🐛 25 | 🌐 Python | 📅 2026-09-29 - A framework for managing and maintaining multi-language pre-commit hooks.
+  * [pre-commit](https://github.com/pre-commit/pre-commit) ⭐ 15,609 | 🐛 25 | 🌐 Python | 📅 2026-09-29 - A framework for managing and maintaining multi-language pre-commit hooks.
 * Linters and Formatters
-  * [ruff](https://github.com/astral-sh/ruff) ⭐ 49,881 | 🐛 2,188 | 🌐 Rust | 📅 2026-10-02 - An extremely fast Python linter and code formatter.
-  * [black](https://github.com/psf/black) ⭐ 41,859 | 🐛 298 | 🌐 Python | 📅 2026-10-01 - The uncompromising Python code formatter.
-  * [bandit](https://github.com/PyCQA/bandit) ⭐ 8,289 | 🐛 260 | 🌐 Python | 📅 2026-09-21 - A tool designed to find common security issues in Python code.
-  * [isort](https://github.com/PyCQA/isort) ⭐ 6,960 | 🐛 93 | 🌐 Python | 📅 2026-10-01 - A Python utility / library to sort imports.
-  * [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,730 | 🐛 1,030 | 🌐 Python | 📅 2026-10-02 - A fully customizable source code analyzer.
-  * [flake8](https://github.com/PyCQA/flake8) ⭐ 3,826 | 🐛 24 | 🌐 Python | 📅 2026-09-29 - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
+  * [ruff](https://github.com/astral-sh/ruff) ⭐ 49,882 | 🐛 2,187 | 🌐 Rust | 📅 2026-10-03 - An extremely fast Python linter and code formatter.
+  * [black](https://github.com/psf/black) ⭐ 41,860 | 🐛 299 | 🌐 Python | 📅 2026-10-01 - The uncompromising Python code formatter.
+  * [bandit](https://github.com/PyCQA/bandit) ⭐ 8,290 | 🐛 260 | 🌐 Python | 📅 2026-09-21 - A tool designed to find common security issues in Python code.
+  * [isort](https://github.com/PyCQA/isort) ⭐ 6,960 | 🐛 94 | 🌐 Python | 📅 2026-10-01 - A Python utility / library to sort imports.
+  * [pylint](https://github.com/pylint-dev/pylint) ⭐ 5,731 | 🐛 1,032 | 🌐 Python | 📅 2026-10-02 - A fully customizable source code analyzer.
+  * [flake8](https://github.com/PyCQA/flake8) ⭐ 3,825 | 🐛 24 | 🌐 Python | 📅 2026-09-29 - A wrapper around `pycodestyle`, `pyflakes` and McCabe.
     * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,282 | 🐛 1 | 📅 2026-07-21
 * Refactoring
   * [rope](https://github.com/python-rope/rope) ⭐ 2,238 | 🐛 157 | 🌐 Python | 📅 2026-09-28 - Rope is a python refactoring library.
@@ -649,23 +649,23 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for testing codebases and generating test data. Also see [awesome-python-testing](https://github.com/cleder/awesome-python-testing) ⭐ 311 | 🐛 3 | 📅 2026-09-29.*
 
 * Frameworks
-  * [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,561 | 🐛 844 | 🌐 Python | 📅 2026-09-29 - A mature full-featured Python testing tool.
+  * [pytest](https://github.com/pytest-dev/pytest) ⭐ 14,561 | 🐛 845 | 🌐 Python | 📅 2026-09-29 - A mature full-featured Python testing tool.
     * [awesome-pytest](https://github.com/augustogoulart/awesome-pytest) ⭐ 576 | 🐛 5 | 📅 2026-06-24
   * [robotframework](https://github.com/robotframework/robotframework) ⭐ 11,922 | 🐛 308 | 🌐 Python | 📅 2026-10-01 - A generic test automation framework.
   * [hypothesis](https://github.com/HypothesisWorks/hypothesis) ⭐ 9,038 | 🐛 53 | 🌐 Python | 📅 2026-09-28 - Hypothesis is an advanced Quickcheck style property based testing library.
 * Test Runners
   * [tox](https://github.com/tox-dev/tox) ⭐ 3,942 | 🐛 0 | 🌐 Python | 📅 2026-10-01 - Auto builds and tests distributions in multiple Python versions.
-  * [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 77 | 🌐 Python | 📅 2026-10-02 - Flexible test automation for Python.
+  * [nox](https://github.com/wntrblm/nox) ⭐ 1,563 | 🐛 75 | 🌐 Python | 📅 2026-10-03 - Flexible test automation for Python.
 * Browser Automation
-  * [selenium](https://github.com/SeleniumHQ/selenium) ⭐ 34,516 | 🐛 193 | 🌐 Java | 📅 2026-10-02 - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
+  * [selenium](https://github.com/SeleniumHQ/selenium) ⭐ 34,517 | 🐛 193 | 🌐 Java | 📅 2026-10-03 - Python bindings for [Selenium](https://selenium.dev/) [WebDriver](https://selenium.dev/documentation/webdriver/).
   * [playwright-python](https://github.com/microsoft/playwright-python) ⭐ 15,020 | 🐛 22 | 🌐 Python | 📅 2026-09-24 - Python version of the Playwright testing and automation library.
-  * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,046 | 🐛 10 | 🌐 Python | 📅 2026-10-02 - Python framework for web automation & testing, with stealth options.
+  * [seleniumbase](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,045 | 🐛 10 | 🌐 Python | 📅 2026-10-02 - Python framework for web automation & testing, with stealth options.
 * Load Testing
   * [locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 8 | 🌐 Python | 📅 2026-09-26 - Scalable user load testing tool written in Python.
 * API Testing
   * [schemathesis](https://github.com/schemathesis/schemathesis) ⭐ 3,645 | 🐛 13 | 🌐 Python | 📅 2026-10-02 - A tool for automatic property-based testing of web APIs from OpenAPI or GraphQL schemas.
 * Mock
-  * [responses](https://github.com/getsentry/responses) ⭐ 4,343 | 🐛 45 | 🌐 Python | 📅 2026-09-24 - A utility library for mocking out the requests Python library.
+  * [responses](https://github.com/getsentry/responses) ⭐ 4,343 | 🐛 46 | 🌐 Python | 📅 2026-10-03 - A utility library for mocking out the requests Python library.
   * [vcrpy](https://github.com/kevin1024/vcrpy) ⭐ 3,018 | 🐛 179 | 🌐 Python | 📅 2026-09-15 - Record and replay HTTP interactions on your tests.
   * [time-machine](https://github.com/adamchainz/time-machine) ⭐ 1,010 | 🐛 7 | 🌐 Python | 📅 2026-09-29 - Travel through time in your tests by mocking the current time at the C level.
   * [respx](https://github.com/lundberg/respx) ⭐ 837 | 🐛 30 | 🌐 Python | 📅 2026-07-21 - Mock HTTPX with awesome request patterns and response side effects.
@@ -676,7 +676,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * Code Coverage
   * [coverage](https://github.com/coveragepy/coveragepy) ⭐ 3,410 | 🐛 324 | 🌐 Python | 📅 2026-10-02 - Code coverage measurement.
 * Fake Data
-  * [faker](https://github.com/joke2k/faker) ⭐ 19,423 | 🐛 41 | 🌐 Python | 📅 2026-09-29 - A Python package that generates fake data.
+  * [faker](https://github.com/joke2k/faker) ⭐ 19,422 | 🐛 41 | 🌐 Python | 📅 2026-09-29 - A Python package that generates fake data.
   * [mimesis](https://github.com/lk-geimfari/mimesis) ⭐ 4,840 | 🐛 15 | 🌐 Python | 📅 2026-09-29 - A Python library for generating fake but realistic data in multiple languages and locales.
 
 ### Debugging Tools
@@ -689,8 +689,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * Tracing
   * [viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,751 | 🐛 28 | 🌐 Python | 📅 2026-09-26 - A low-overhead tool that traces and visualizes Python code execution.
 * Profiler
-  * [py-spy](https://github.com/benfred/py-spy) ⭐ 15,533 | 🐛 240 | 🌐 Rust | 📅 2026-10-02 - A sampling profiler for Python programs. Written in Rust.
-  * [memray](https://github.com/bloomberg/memray) ⭐ 15,255 | 🐛 46 | 🌐 Python | 📅 2026-10-02 - A memory profiler that tracks allocations in Python code, native extensions, and the interpreter itself.
+  * [py-spy](https://github.com/benfred/py-spy) ⭐ 15,533 | 🐛 237 | 🌐 Rust | 📅 2026-10-03 - A sampling profiler for Python programs. Written in Rust.
+  * [memray](https://github.com/bloomberg/memray) ⭐ 15,256 | 🐛 47 | 🌐 Python | 📅 2026-10-02 - A memory profiler that tracks allocations in Python code, native extensions, and the interpreter itself.
   * [scalene](https://github.com/plasma-umass/scalene) ⭐ 13,521 | 🐛 153 | 🌐 Python | 📅 2026-10-01 - A high-performance, high-precision CPU, GPU, and memory profiler for Python.
   * [pyinstrument](https://github.com/joerick/pyinstrument) ⭐ 8,014 | 🐛 31 | 🌐 Python | 📅 2026-09-01 - A statistical wall-clock profiler with low overhead and readable call-tree output.
 * Others
@@ -711,11 +711,11 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for generating project documentation.*
 
-* [diagrams](https://github.com/mingrammer/diagrams) ⭐ 42,666 | 🐛 394 | 🌐 Python | 📅 2026-10-01 - Diagram as Code.
+* [diagrams](https://github.com/mingrammer/diagrams) ⭐ 42,667 | 🐛 394 | 🌐 Python | 📅 2026-10-01 - Diagram as Code.
 * [mkdocs-material](https://github.com/squidfunk/mkdocs-material) ⭐ 27,532 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - A documentation framework and Material Design theme built on MkDocs.
-* [sphinx](https://github.com/sphinx-doc/sphinx/) ⭐ 8,047 | 🐛 1,467 | 🌐 Python | 📅 2026-09-21 - Python Documentation generator.
+* [sphinx](https://github.com/sphinx-doc/sphinx/) ⭐ 8,047 | 🐛 1,469 | 🌐 Python | 📅 2026-09-21 - Python Documentation generator.
   * [awesome-sphinxdoc](https://github.com/ygzgxyz/awesome-sphinxdoc) ⭐ 978 | 🐛 8 | 🌐 HTML | 📅 2025-10-07
-* [zensical](https://github.com/zensical/zensical) ⭐ 5,821 | 🐛 2 | 🌐 Rust | 📅 2026-09-30 - A modern static site generator for technical documentation.
+* [zensical](https://github.com/zensical/zensical) ⭐ 5,823 | 🐛 2 | 🌐 Rust | 📅 2026-09-30 - A modern static site generator for technical documentation.
 * [pdoc](https://github.com/mitmproxy/pdoc) ⭐ 2,514 | 🐛 74 | 🌐 Python | 📅 2026-07-01 - Auto-generates API documentation for Python projects.
 
 **DevOps**
@@ -725,24 +725,24 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Software and libraries for DevOps.*
 
 * Cloud Providers
-  * [awscli](https://github.com/aws/aws-cli) ⭐ 17,286 | 🐛 753 | 🌐 Python | 📅 2026-10-02 - Universal Command Line Interface for Amazon Web Services; the PyPI package is v1, in maintenance mode, while v2 ships as AWS's bundled installer.
+  * [awscli](https://github.com/aws/aws-cli) ⭐ 17,287 | 🐛 753 | 🌐 Python | 📅 2026-10-02 - Universal Command Line Interface for Amazon Web Services; the PyPI package is v1, in maintenance mode, while v2 ships as AWS's bundled installer.
   * [boto3](https://github.com/boto/boto3) ⭐ 9,911 | 🐛 191 | 🌐 Python | 📅 2026-10-02 - Python interface to Amazon Web Services.
-  * [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) ⭐ 5,611 | 🐛 1,112 | 🌐 Python | 📅 2026-10-02 - Microsoft Azure SDK for Python, published as per-service packages.
-  * [google-cloud-python](https://github.com/googleapis/google-cloud-python) ⭐ 5,395 | 🐛 590 | 🌐 Python | 📅 2026-10-03 - Google Cloud client libraries for Python, published as per-service packages.
+  * [azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python) ⭐ 5,611 | 🐛 1,112 | 🌐 Python | 📅 2026-10-03 - Microsoft Azure SDK for Python, published as per-service packages.
+  * [google-cloud-python](https://github.com/googleapis/google-cloud-python) ⭐ 5,396 | 🐛 589 | 🌐 Python | 📅 2026-10-03 - Google Cloud client libraries for Python, published as per-service packages.
 * Configuration Management
-  * [ansible](https://github.com/ansible/ansible) ⭐ 70,831 | 🐛 863 | 🌐 Python | 📅 2026-10-02 - A radically simple IT automation platform.
+  * [ansible](https://github.com/ansible/ansible) ⭐ 70,834 | 🐛 863 | 🌐 Python | 📅 2026-10-02 - A radically simple IT automation platform.
   * [salt](https://github.com/saltstack/salt) ⭐ 15,685 | 🐛 1,877 | 🌐 Python | 📅 2026-09-30 - Infrastructure automation and management system.
-  * [pyinfra](https://github.com/pyinfra-dev/pyinfra) ⭐ 6,026 | 🐛 163 | 🌐 Python | 📅 2026-09-22 - Turns Python code into shell commands and runs them on your servers.
-  * [cloud-init](https://github.com/canonical/cloud-init) ⭐ 3,826 | 🐛 616 | 🌐 Python | 📅 2026-10-02 - A multi-distribution package that handles early initialization of a cloud instance.
+  * [pyinfra](https://github.com/pyinfra-dev/pyinfra) ⭐ 6,027 | 🐛 163 | 🌐 Python | 📅 2026-09-22 - Turns Python code into shell commands and runs them on your servers.
+  * [cloud-init](https://github.com/canonical/cloud-init) ⭐ 3,826 | 🐛 618 | 🌐 Python | 📅 2026-10-02 - A multi-distribution package that handles early initialization of a cloud instance.
 * Deployment
   * [fabric](https://github.com/fabric/fabric) ⭐ 15,510 | 🐛 511 | 🌐 Python | 📅 2026-04-10 - A simple, Pythonic tool for remote execution and deployment.
   * [chalice](https://github.com/aws/chalice) ⭐ 11,053 | 🐛 501 | 🌐 Python | 📅 2026-09-11 - A Python serverless microframework for AWS.
 * Monitoring and Processes
-  * [psutil](https://github.com/giampaolo/psutil) ⭐ 11,285 | 🐛 271 | 🌐 Python | 📅 2026-10-01 - A cross-platform process and system utilities module.
+  * [psutil](https://github.com/giampaolo/psutil) ⭐ 11,285 | 🐛 271 | 🌐 Python | 📅 2026-10-03 - A cross-platform process and system utilities module.
   * [supervisor](https://github.com/Supervisor/supervisor) ⭐ 9,123 | 🐛 183 | 🌐 Python | 📅 2025-12-21 - Supervisor process control system for UNIX.
   * [sh](https://github.com/amoffat/sh) ⭐ 7,246 | 🐛 2 | 🌐 Python | 📅 2026-07-25 - A full-fledged subprocess replacement for Python.
   * [flower](https://github.com/mher/flower) ⭐ 7,241 | 🐛 37 | 🌐 Python | 📅 2026-09-22 - A real-time monitor and web admin for Celery task queues.
-  * [sentry-sdk](https://github.com/getsentry/sentry-python) ⭐ 2,209 | 🐛 374 | 🌐 Python | 📅 2026-10-02 - Sentry SDK for Python.
+  * [sentry-sdk](https://github.com/getsentry/sentry-python) ⭐ 2,209 | 🐛 375 | 🌐 Python | 📅 2026-10-03 - Sentry SDK for Python.
 * Other
   * [borgbackup](https://github.com/borgbackup/borg) ⭐ 13,804 | 🐛 214 | 🌐 Python | 📅 2026-09-29 - A deduplicating archiver with compression and encryption.
 
@@ -750,8 +750,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Frameworks and libraries for Distributed Computing.*
 
-* [pyspark](https://github.com/apache/spark) ⭐ 44,109 | 🐛 599 | 🌐 Scala | 📅 2026-10-02 - [Apache Spark](https://spark.apache.org/) Python API.
-* [ray](https://github.com/ray-project/ray/) ⭐ 43,961 | 🐛 3,544 | 🌐 Python | 📅 2026-10-02 - A unified framework for scaling AI and Python applications.
+* [pyspark](https://github.com/apache/spark) ⭐ 44,112 | 🐛 598 | 🌐 Scala | 📅 2026-10-02 - [Apache Spark](https://spark.apache.org/) Python API.
+* [ray](https://github.com/ray-project/ray/) ⭐ 43,965 | 🐛 3,544 | 🌐 Python | 📅 2026-10-03 - A unified framework for scaling AI and Python applications.
 * [dask](https://github.com/dask/dask) ⭐ 13,930 | 🐛 1,350 | 🌐 Python | 📅 2026-09-29 - A flexible parallel computing library for analytic computing.
 * [joblib](https://github.com/joblib/joblib) ⭐ 4,399 | 🐛 432 | 🌐 Python | 📅 2026-10-02 - Parallel computing and disk-based caching for Python functions.
 * [mpi4py](https://github.com/mpi4py/mpi4py) ⭐ 926 | 🐛 6 | 🌐 Python | 📅 2026-10-01 - Python bindings for MPI.
@@ -760,9 +760,9 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for working with task queues.*
 
-* [celery](https://github.com/celery/celery) ⭐ 28,932 | 🐛 740 | 🌐 Python | 📅 2026-10-01 - An asynchronous task queue/job queue based on distributed message passing.
-* [rq](https://github.com/rq/rq) ⭐ 10,694 | 🐛 260 | 🌐 Python | 📅 2026-10-02 - Simple job queues for Python.
-* [huey](https://github.com/coleifer/huey) ⭐ 6,039 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - A little task queue with multi-process, multi-thread, or greenlet workers.
+* [celery](https://github.com/celery/celery) ⭐ 28,931 | 🐛 739 | 🌐 Python | 📅 2026-10-03 - An asynchronous task queue/job queue based on distributed message passing.
+* [rq](https://github.com/rq/rq) ⭐ 10,694 | 🐛 259 | 🌐 Python | 📅 2026-10-03 - Simple job queues for Python.
+* [huey](https://github.com/coleifer/huey) ⭐ 6,039 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - A little task queue with multi-process, multi-thread, or greenlet workers.
 * [dramatiq](https://github.com/Bogdanp/dramatiq) ⭐ 5,323 | 🐛 68 | 🌐 Python | 📅 2026-09-14 - A fast and reliable background task processing library for Python 3.
 * [taskiq](https://github.com/taskiq-python/taskiq) ⭐ 2,346 | 🐛 120 | 🌐 Python | 📅 2026-09-26 - Distributed task queue with native asyncio support and pluggable brokers.
 
@@ -781,10 +781,10 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * Task Scheduling
   * [schedule](https://github.com/dbader/schedule) ⭐ 12,277 | 🐛 182 | 🌐 Python | 📅 2024-05-25 - Python job scheduling for humans.
-  * [apscheduler](https://github.com/agronholm/apscheduler) ⭐ 7,644 | 🐛 60 | 🌐 Python | 📅 2026-10-01 - A light but powerful in-process task scheduler that lets you schedule functions.
+  * [apscheduler](https://github.com/agronholm/apscheduler) ⭐ 7,644 | 🐛 62 | 🌐 Python | 📅 2026-10-01 - A light but powerful in-process task scheduler that lets you schedule functions.
 * Workflow Orchestration
-  * [apache-airflow](https://github.com/apache/airflow) ⭐ 47,034 | 🐛 1,830 | 🌐 Python | 📅 2026-10-02 - Airflow is a platform to programmatically author, schedule and monitor workflows.
-  * [prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,963 | 🐛 871 | 🌐 Python | 📅 2026-10-02 - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
+  * [apache-airflow](https://github.com/apache/airflow) ⭐ 47,036 | 🐛 1,829 | 🌐 Python | 📅 2026-10-03 - Airflow is a platform to programmatically author, schedule and monitor workflows.
+  * [prefect](https://github.com/PrefectHQ/prefect) ⭐ 23,963 | 🐛 872 | 🌐 Python | 📅 2026-10-02 - A modern workflow orchestration framework that makes it easy to build, schedule and monitor robust data pipelines.
   * [dagster](https://github.com/dagster-io/dagster) ⭐ 16,232 | 🐛 2,577 | 🌐 Python | 📅 2026-10-02 - An orchestration platform for the development, production, and observation of data assets.
 
 ### Logging
@@ -793,14 +793,14 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * [loguru](https://github.com/Delgan/loguru) ⭐ 24,140 | 🐛 265 | 🌐 Python | 📅 2026-10-01 - Library which aims to bring enjoyable logging in Python.
 * [structlog](https://github.com/hynek/structlog) ⭐ 4,968 | 🐛 39 | 🌐 Python | 📅 2026-10-01 - Structured logging made easy.
-* [logfire](https://github.com/pydantic/logfire) ⭐ 4,505 | 🐛 212 | 🌐 Python | 📅 2026-10-02 - The observability platform for Python, from the makers of Pydantic.
+* [logfire](https://github.com/pydantic/logfire) ⭐ 4,506 | 🐛 214 | 🌐 Python | 📅 2026-10-03 - The observability platform for Python, from the makers of Pydantic.
 * [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 
 ### Network Virtualization
 
 *Tools and libraries for packet manipulation and network device automation.*
 
-* [scapy](https://github.com/secdev/scapy) ⭐ 12,579 | 🐛 139 | 🌐 Python | 📅 2026-10-02 - A brilliant packet manipulation library.
+* [scapy](https://github.com/secdev/scapy) ⭐ 12,580 | 🐛 139 | 🌐 Python | 📅 2026-10-02 - A brilliant packet manipulation library.
 * [netmiko](https://github.com/ktbyers/netmiko) ⭐ 4,300 | 🐛 66 | 🌐 Python | 📅 2026-09-21 - Multi-vendor library to simplify CLI connections to network devices.
 * [napalm](https://github.com/napalm-automation/napalm) ⭐ 2,507 | 🐛 175 | 🌐 Python | 📅 2026-08-12 - Cross-vendor API to manipulate network devices.
 
@@ -813,16 +813,16 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * General
   * [fire](https://github.com/google/python-fire) ⭐ 28,222 | 🐛 202 | 🌐 Python | 📅 2026-07-01 - A library for creating command line interfaces from absolutely any Python object.
   * [typer](https://github.com/fastapi/typer) ⭐ 20,049 | 🐛 53 | 🌐 Python | 📅 2026-10-01 - Modern CLI framework that uses Python type hints. Built on Click.
-  * [click](https://github.com/pallets/click/) ⭐ 17,781 | 🐛 86 | 🌐 Python | 📅 2026-09-23 - A package for creating beautiful command line interfaces in a composable way.
-  * [prompt\_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,592 | 🐛 736 | 🌐 Python | 📅 2026-07-26 - A library for building powerful interactive command lines.
+  * [click](https://github.com/pallets/click/) ⭐ 17,782 | 🐛 86 | 🌐 Python | 📅 2026-09-23 - A package for creating beautiful command line interfaces in a composable way.
+  * [prompt\_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) ⭐ 10,592 | 🐛 737 | 🌐 Python | 📅 2026-07-26 - A library for building powerful interactive command lines.
   * [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
 * Terminal Rendering
-  * [rich](https://github.com/Textualize/rich) ⭐ 57,466 | 🐛 380 | 🌐 Python | 📅 2026-06-23 - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
-  * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,351 | 🐛 643 | 🌐 Python | 📅 2026-09-20 - Fast, extensible progress bar for loops and CLI.
+  * [rich](https://github.com/Textualize/rich) ⭐ 57,467 | 🐛 380 | 🌐 Python | 📅 2026-06-23 - Python library for rich text and beautiful formatting in the terminal. Also provides a great `RichHandler` log handler.
+  * [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,350 | 🐛 643 | 🌐 Python | 📅 2026-09-20 - Fast, extensible progress bar for loops and CLI.
   * [alive-progress](https://github.com/rsalmei/alive-progress) ⭐ 6,312 | 🐛 22 | 🌐 Python | 📅 2026-05-24 - A new kind of Progress Bar, with real-time throughput, eta and very cool animations.
   * [colorama](https://github.com/tartley/colorama) ⭐ 3,795 | 🐛 144 | 🌐 Python | 📅 2026-05-13 - Cross-platform colored terminal text.
 * TUI Frameworks
-  * [textual](https://github.com/Textualize/textual) ⭐ 37,388 | 🐛 362 | 🌐 Python | 📅 2026-07-11 - A framework for building interactive user interfaces that run in the terminal and the browser.
+  * [textual](https://github.com/Textualize/textual) ⭐ 37,389 | 🐛 362 | 🌐 Python | 📅 2026-07-11 - A framework for building interactive user interfaces that run in the terminal and the browser.
   * [asciimatics](https://github.com/peterbrittain/asciimatics) ⭐ 4,303 | 🐛 17 | 🌐 Python | 📅 2026-07-04 - A package to create full-screen text UIs (from interactive forms to ASCII animations).
   * [urwid](https://github.com/urwid/urwid) ⭐ 3,020 | 🐛 112 | 🌐 Python | 📅 2026-10-02 - A library for creating terminal GUI applications with strong support for widgets, events, rich colors, etc.
 
@@ -836,16 +836,16 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [litecli](https://github.com/dbcli/litecli) ⭐ 3,310 | 🐛 44 | 🌐 Python | 📅 2026-06-18 - SQLite CLI with autocompletion and syntax highlighting.
   * [iredis](https://github.com/laixintao/iredis) ⭐ 2,759 | 🐛 49 | 🌐 Python | 📅 2026-09-21 - Redis CLI with autocompletion and syntax highlighting.
 * Downloaders
-  * [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,019 | 🐛 2,672 | 🌐 Python | 📅 2026-09-27 - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
+  * [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,067 | 🐛 2,673 | 🌐 Python | 📅 2026-09-27 - A command-line program to download videos from YouTube and other video sites, a fork of youtube-dl.
 * HTTP Clients
   * [httpie](https://github.com/httpie/cli) ⭐ 38,607 | 🐛 346 | 🌐 Python | 📅 2024-12-17 - A command line HTTP client, a user-friendly cURL replacement.
 * Project Scaffolding
-  * [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,122 | 🐛 322 | 🌐 Python | 📅 2026-04-01 - A command-line utility that creates projects from cookiecutters (project templates).
+  * [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,124 | 🐛 322 | 🌐 Python | 📅 2026-04-01 - A command-line utility that creates projects from cookiecutters (project templates).
   * [copier](https://github.com/copier-org/copier) ⭐ 3,608 | 🐛 144 | 🌐 Python | 📅 2026-09-30 - A library and command-line utility for rendering project templates.
 * Shells
-  * [xonsh](https://github.com/xonsh/xonsh/) ⭐ 9,659 | 🐛 75 | 🌐 Python | 📅 2026-09-29 - A Python-powered shell. Full-featured and cross-platform.
+  * [xonsh](https://github.com/xonsh/xonsh/) ⭐ 9,658 | 🐛 75 | 🌐 Python | 📅 2026-09-29 - A Python-powered shell. Full-featured and cross-platform.
 * Terminal Workflow
-  * [tmuxp](https://github.com/tmux-python/tmuxp) ⭐ 4,588 | 🐛 138 | 🌐 Python | 📅 2026-10-02 - A [tmux](https://github.com/tmux/tmux) ⭐ 49,627 | 🐛 44 | 🌐 C | 📅 2026-10-02 session manager.
+  * [tmuxp](https://github.com/tmux-python/tmuxp) ⭐ 4,588 | 🐛 138 | 🌐 Python | 📅 2026-10-02 - A [tmux](https://github.com/tmux/tmux) ⭐ 49,629 | 🐛 47 | 🌐 C | 📅 2026-10-03 session manager.
 
 ### GUI Development
 
@@ -858,15 +858,15 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [wxPython](https://github.com/wxWidgets/Phoenix) ⭐ 2,628 | 🐛 612 | 🌐 Python | 📅 2026-10-02 - A cross-platform GUI toolkit that wraps the wxWidgets C++ library.
   * [PyGObject](https://github.com/GNOME/pygobject) ⭐ 159 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Python Bindings for GLib/GObject/GIO/GTK.
 * Qt
-  * [PySide6](https://github.com/pyside/pyside-setup) ⭐ 134 | 🐛 0 | 🌐 C++ | 📅 2026-10-02 - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), largely API-compatible with PyQt6 but with different licensing.
+  * [PySide6](https://github.com/pyside/pyside-setup) ⭐ 134 | 🐛 0 | 🌐 C++ | 📅 2026-10-03 - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), largely API-compatible with PyQt6 but with different licensing.
   * [PyQt6](https://www.riverbankcomputing.com/static/Docs/PyQt6/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 * Tkinter
   * [customtkinter](https://github.com/tomschimansky/customtkinter) ⭐ 13,576 | 🐛 318 | 🌐 Python | 📅 2026-06-24 - A modern and customizable python UI-library based on Tkinter.
   * [tkinter](https://docs.python.org/3/library/tkinter.html) - (Python standard library) The standard Python interface to the Tcl/Tk GUI toolkit.
 * Web-based
-  * [flet](https://github.com/flet-dev/flet) ⭐ 17,234 | 🐛 313 | 🌐 Python | 📅 2026-10-01 - Cross-platform GUI framework for building modern apps in pure Python.
-  * [nicegui](https://github.com/zauberzeug/nicegui) ⭐ 16,258 | 🐛 64 | 🌐 Python | 📅 2026-10-02 - An easy-to-use, Python-based UI framework, which shows up in your web browser.
-  * [pywebview](https://github.com/r0x0r/pywebview/) ⭐ 6,074 | 🐛 19 | 🌐 Python | 📅 2026-10-01 - A lightweight cross-platform native wrapper around a webview component.
+  * [flet](https://github.com/flet-dev/flet) ⭐ 17,235 | 🐛 312 | 🌐 Python | 📅 2026-10-03 - Cross-platform GUI framework for building modern apps in pure Python.
+  * [nicegui](https://github.com/zauberzeug/nicegui) ⭐ 16,261 | 🐛 64 | 🌐 Python | 📅 2026-10-02 - An easy-to-use, Python-based UI framework, which shows up in your web browser.
+  * [pywebview](https://github.com/r0x0r/pywebview/) ⭐ 6,075 | 🐛 19 | 🌐 Python | 📅 2026-10-01 - A lightweight cross-platform native wrapper around a webview component.
 
 **Text & Documents**
 
@@ -877,19 +877,19 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * Encoding and Unicode
   * [ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,066 | 🐛 26 | 🌐 Python | 📅 2024-10-30 - Makes Unicode text less broken and more consistent automagically.
   * [chardet](https://github.com/chardet/chardet) ⭐ 2,676 | 🐛 1 | 🌐 Python | 📅 2026-08-30 - Python character encoding detector.
-  * [charset-normalizer](https://github.com/jawah/charset_normalizer) ⭐ 799 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Universal character encoding detector, and a dependency of requests.
+  * [charset-normalizer](https://github.com/jawah/charset_normalizer) ⭐ 800 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Universal character encoding detector, and a dependency of requests.
 * Fuzzy Matching
   * [rapidfuzz](https://github.com/rapidfuzz/RapidFuzz) ⭐ 4,148 | 🐛 33 | 🌐 Python | 📅 2026-09-28 - Rapid fuzzy string matching using various string metrics, with a C++ core.
 * General
   * [pyfiglet](https://github.com/pwaller/pyfiglet) ⭐ 1,587 | 🐛 2 | 🌐 Python | 📅 2026-08-02 - An implementation of figlet written in Python.
   * [difflib](https://docs.python.org/3/library/difflib.html) - (Python standard library) Helpers for computing deltas.
 * Internationalization
-  * [babel](https://github.com/python-babel/babel) ⭐ 1,469 | 🐛 248 | 🌐 Python | 📅 2026-09-22 - An internationalization library for Python.
+  * [babel](https://github.com/python-babel/babel) ⭐ 1,469 | 🐛 249 | 🌐 Python | 📅 2026-09-22 - An internationalization library for Python.
 * Parser
   * [sqlparse](https://github.com/andialbrecht/sqlparse) ⭐ 4,021 | 🐛 305 | 🌐 Python | 📅 2026-08-13 - A non-validating SQL parser.
   * [phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,773 | 🐛 11 | 🌐 Python | 📅 2026-09-24 - Parsing, formatting, storing and validating international phone numbers.
   * [pyparsing](https://github.com/pyparsing/pyparsing) ⭐ 2,494 | 🐛 48 | 🌐 Python | 📅 2026-09-20 - A Python library for creating PEG parsers.
-  * [pygments](https://github.com/pygments/pygments) ⭐ 2,214 | 🐛 682 | 🌐 Python | 📅 2026-09-27 - A generic syntax highlighter.
+  * [pygments](https://github.com/pygments/pygments) ⭐ 2,215 | 🐛 682 | 🌐 Python | 📅 2026-09-27 - A generic syntax highlighter.
   * [parsy](https://github.com/python-parsy/parsy) ⭐ 451 | 🐛 18 | 🌐 Python | 📅 2026-06-22 - Easy, generic parser combinator library for creating parsers.
 * Transliteration and Slugs
   * [python-slugify](https://github.com/un33k/python-slugify) ⭐ 1,625 | 🐛 0 | 🌐 Python | 📅 2026-09-27 - A Python slugify library that translates unicode to ASCII.
@@ -904,7 +904,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * [xmltodict](https://github.com/martinblech/xmltodict) ⭐ 5,759 | 🐛 7 | 🌐 Python | 📅 2026-08-19 - Working with XML feel like you are working with JSON.
 * [lxml](https://github.com/lxml/lxml) ⭐ 3,063 | 🐛 13 | 🌐 Python | 📅 2026-10-01 - A very fast, easy-to-use and versatile library for handling HTML and XML.
 * [justhtml](https://github.com/EmilStenstrom/justhtml/) ⭐ 1,158 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - A pure Python HTML5 parser that sanitizes untrusted HTML by default.
-* [markupsafe](https://github.com/pallets/markupsafe) ⭐ 696 | 🐛 8 | 🌐 Python | 📅 2026-10-02 - Safely adds untrusted strings to HTML/XML markup.
+* [markupsafe](https://github.com/pallets/markupsafe) ⭐ 696 | 🐛 8 | 🌐 Python | 📅 2026-10-03 - Safely adds untrusted strings to HTML/XML markup.
 * [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
 
 ### File Format Processing
@@ -912,11 +912,11 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for parsing and manipulating specific file formats.*
 
 * General
-  * [tablib](https://github.com/jazzband/tablib) ⭐ 4,757 | 🐛 60 | 🌐 Python | 📅 2026-09-11 - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
-  * [pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,283 | 🐛 56 | 🌐 Python | 📅 2026-10-02 - Parsing and analyzing ELF files and DWARF debugging information.
+  * [tablib](https://github.com/jazzband/tablib) ⭐ 4,757 | 🐛 62 | 🌐 Python | 📅 2026-09-11 - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
+  * [pyelftools](https://github.com/eliben/pyelftools) ⭐ 2,284 | 🐛 56 | 🌐 Python | 📅 2026-10-02 - Parsing and analyzing ELF files and DWARF debugging information.
 * File Conversion
-  * [markitdown](https://github.com/microsoft/markitdown) ⭐ 188,020 | 🐛 645 | 🌐 Python | 📅 2026-10-02 - Python tool for converting files and office documents to Markdown.
-  * [docling](https://github.com/docling-project/docling) ⭐ 68,313 | 🐛 982 | 🌐 Python | 📅 2026-10-02 - Library for converting documents into structured data.
+  * [markitdown](https://github.com/microsoft/markitdown) ⭐ 188,060 | 🐛 647 | 🌐 Python | 📅 2026-10-03 - Python tool for converting files and office documents to Markdown.
+  * [docling](https://github.com/docling-project/docling) ⭐ 68,319 | 🐛 988 | 🌐 Python | 📅 2026-10-02 - Library for converting documents into structured data.
 * Excel
   * [xlsxwriter](https://github.com/jmcnamara/XlsxWriter) ⭐ 3,978 | 🐛 32 | 🌐 Python | 📅 2026-08-04 - A Python module for creating Excel .xlsx files.
   * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - A library for reading and writing Excel 2010 xlsx/xlsm/xltx/xltm files.
@@ -925,14 +925,14 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 * PowerPoint
   * [python-pptx](https://github.com/scanny/python-pptx) ⭐ 3,549 | 🐛 542 | 🌐 Python | 📅 2024-08-07 - Python library for creating and updating PowerPoint (.pptx) files.
 * PDF
-  * [pymupdf](https://github.com/pymupdf/PyMuPDF) ⭐ 10,819 | 🐛 69 | 🌐 Python | 📅 2026-10-02 - A fast library for extracting, rendering, and editing PDF and other document formats, built on MuPDF.
+  * [pymupdf](https://github.com/pymupdf/PyMuPDF) ⭐ 10,818 | 🐛 70 | 🌐 Python | 📅 2026-10-02 - A fast library for extracting, rendering, and editing PDF and other document formats, built on MuPDF.
   * [pypdf](https://github.com/py-pdf/pypdf) ⭐ 10,241 | 🐛 146 | 🌐 Python | 📅 2026-10-02 - A library capable of splitting, merging, cropping, and transforming PDF pages.
-  * [pdfminer.six](https://github.com/pdfminer/pdfminer.six) ⭐ 7,035 | 🐛 237 | 🌐 Python | 📅 2026-03-13 - A community-maintained fork of PDFMiner for extracting information from PDF documents.
+  * [pdfminer.six](https://github.com/pdfminer/pdfminer.six) ⭐ 7,035 | 🐛 239 | 🌐 Python | 📅 2026-03-13 - A community-maintained fork of PDFMiner for extracting information from PDF documents.
   * [reportlab](https://docs.reportlab.com/) - An open-source library for generating PDFs and graphics.
 * HTML-to-PDF
-  * [weasyprint](https://github.com/Kozea/WeasyPrint) ⭐ 9,655 | 🐛 151 | 🌐 Python | 📅 2026-10-02 - A visual rendering engine for HTML and CSS that can export to PDF.
+  * [weasyprint](https://github.com/Kozea/WeasyPrint) ⭐ 9,656 | 🐛 151 | 🌐 Python | 📅 2026-10-02 - A visual rendering engine for HTML and CSS that can export to PDF.
 * Markdown
-  * [markdown](https://github.com/Python-Markdown/markdown) ⭐ 4,253 | 🐛 24 | 🌐 Python | 📅 2026-09-30 - A Python implementation of John Gruber’s Markdown.
+  * [markdown](https://github.com/Python-Markdown/markdown) ⭐ 4,252 | 🐛 24 | 🌐 Python | 📅 2026-09-30 - A Python implementation of John Gruber’s Markdown.
   * [mistune](https://github.com/lepture/mistune) ⭐ 3,076 | 🐛 32 | 🌐 Python | 📅 2026-08-21 - A fast yet powerful Python Markdown parser with renderers and plugins.
   * [markdown-it-py](https://github.com/executablebooks/markdown-it-py) ⭐ 1,370 | 🐛 28 | 🌐 Python | 📅 2026-09-28 - Markdown parser with 100% CommonMark support, extensions, and syntax plugins.
 * Data Formats
@@ -959,13 +959,13 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [qrcode](https://github.com/lincolnloop/python-qrcode) ⭐ 4,948 | 🐛 58 | 🌐 Python | 📅 2026-03-25 - A pure Python QR Code generator.
   * [python-barcode](https://github.com/WhyNotHugo/python-barcode) ⭐ 656 | 🐛 58 | 🌐 Python | 📅 2026-07-27 - Create barcodes in Python with no extra dependencies.
 * General
-  * [rembg](https://github.com/danielgatis/rembg) ⭐ 24,949 | 🐛 1 | 🌐 Python | 📅 2026-09-20 - A tool to remove image backgrounds.
-  * [pillow](https://github.com/python-pillow/Pillow) ⭐ 13,876 | 🐛 152 | 🌐 Python | 📅 2026-10-02 - Pillow is the friendly [PIL](https://pillow.readthedocs.io/en/stable/about.html) fork.
+  * [rembg](https://github.com/danielgatis/rembg) ⭐ 24,952 | 🐛 1 | 🌐 Python | 📅 2026-09-20 - A tool to remove image backgrounds.
+  * [pillow](https://github.com/python-pillow/Pillow) ⭐ 13,877 | 🐛 149 | 🌐 Python | 📅 2026-10-03 - Pillow is the friendly [PIL](https://pillow.readthedocs.io/en/stable/about.html) fork.
   * [scikit-image](https://github.com/scikit-image/scikit-image) ⭐ 6,602 | 🐛 954 | 🌐 Python | 📅 2026-10-01 - A Python library for (scientific) image processing.
   * [wand](https://github.com/emcconville/wand) ⭐ 1,480 | 🐛 29 | 🌐 Python | 📅 2026-08-06 - Python bindings for [MagickWand](https://imagemagick.org/magick-wand/), C API for ImageMagick.
   * [pyvips](https://github.com/libvips/pyvips) ⭐ 812 | 🐛 2 | 🌐 Python | 📅 2026-08-30 - A binding for libvips, a fast image processing library with low memory needs.
 * Image Serving
-  * [thumbor](https://github.com/thumbor/thumbor) ⭐ 10,520 | 🐛 11 | 🌐 Python | 📅 2026-10-02 - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
+  * [thumbor](https://github.com/thumbor/thumbor) ⭐ 10,520 | 🐛 4 | 🌐 Python | 📅 2026-10-03 - A smart imaging service. It enables on-demand crop, re-sizing and flipping of images.
 
 ### Audio & Video Processing
 
@@ -976,8 +976,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
   * [librosa](https://github.com/librosa/librosa) ⭐ 8,646 | 🐛 51 | 🌐 Python | 📅 2026-09-29 - Python library for audio and music analysis.
   * [soundfile](https://github.com/bastibe/python-soundfile) ⭐ 864 | 🐛 137 | 🌐 Python | 📅 2026-07-14 - An audio library for reading and writing sound files, based on libsndfile, CFFI, and NumPy.
 * Video
-  * [moviepy](https://github.com/Zulko/moviepy) ⭐ 14,943 | 🐛 87 | 🌐 Python | 📅 2026-08-26 - A module for script-based movie editing with many formats, including animated GIFs.
-  * [av](https://github.com/PyAV-Org/PyAV) ⭐ 3,297 | 🐛 5 | 🌐 Python | 📅 2026-09-30 - Pythonic bindings for FFmpeg's libraries.
+  * [moviepy](https://github.com/Zulko/moviepy) ⭐ 14,944 | 🐛 87 | 🌐 Python | 📅 2026-08-26 - A module for script-based movie editing with many formats, including animated GIFs.
+  * [av](https://github.com/PyAV-Org/PyAV) ⭐ 3,297 | 🐛 5 | 🌐 Python | 📅 2026-10-03 - Pythonic bindings for FFmpeg's libraries.
 * Metadata
   * [beets](https://github.com/beetbox/beets) ⭐ 15,738 | 🐛 709 | 🌐 Python | 📅 2026-10-02 - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
   * [mutagen](https://github.com/quodlibet/mutagen) ⭐ 1,965 | 🐛 125 | 🌐 Python | 📅 2026-08-20 - A Python module to handle audio metadata.
@@ -988,14 +988,14 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Awesome game development libraries.*
 
 * 3D Engines
-  * [panda3d](https://github.com/panda3d/panda3d) ⭐ 5,233 | 🐛 372 | 🌐 C++ | 📅 2026-07-28 - 3D game engine developed jointly by Disney and contributors from around the world.
+  * [panda3d](https://github.com/panda3d/panda3d) ⭐ 5,234 | 🐛 372 | 🌐 C++ | 📅 2026-07-28 - 3D game engine developed jointly by Disney and contributors from around the world.
 * Game Frameworks
   * [pygame](https://github.com/pygame/pygame) ⭐ 8,951 | 🐛 797 | 🌐 C | 📅 2025-11-01 - Pygame is a set of Python modules designed for writing games.
   * [pyglet](https://github.com/pyglet/pyglet) ⭐ 2,218 | 🐛 32 | 🌐 Python | 📅 2026-10-01 - A cross-platform windowing and multimedia library for Python.
   * [arcade](https://github.com/pythonarcade/arcade) ⭐ 2,085 | 🐛 102 | 🌐 Python | 📅 2026-10-02 - An easy-to-use library for creating 2D arcade games.
   * [pygame-ce](https://github.com/pygame-community/pygame-ce) ⭐ 1,674 | 🐛 443 | 🌐 C | 📅 2026-09-26 - An actively developed drop-in replacement with new features and performance improvements ([pygame](https://github.com/pygame/pygame) ⭐ 8,951 | 🐛 797 | 🌐 C | 📅 2025-11-01 fork).
 * Visual Novels
-  * [renpy](https://github.com/renpy/renpy) ⭐ 6,877 | 🐛 305 | 🌐 Ren'Py | 📅 2026-10-02 - A Visual Novel engine.
+  * [renpy](https://github.com/renpy/renpy) ⭐ 6,878 | 🐛 303 | 🌐 Ren'Py | 📅 2026-10-03 - A Visual Novel engine.
 
 **Python Language**
 
@@ -1003,8 +1003,8 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Implementations of Python.*
 
-* [cpython](https://github.com/python/cpython) ⭐ 77,391 | 🐛 9,735 | 🌐 Python | 📅 2026-10-02 - Default, most widely used implementation of the Python programming language written in C.
-* [micropython](https://github.com/micropython/micropython) ⭐ 22,105 | 🐛 1,531 | 🌐 C | 📅 2026-10-02 - A lean and efficient Python implementation for microcontrollers and constrained systems.
+* [cpython](https://github.com/python/cpython) ⭐ 77,392 | 🐛 9,739 | 🌐 Python | 📅 2026-10-02 - Default, most widely used implementation of the Python programming language written in C.
+* [micropython](https://github.com/micropython/micropython) ⭐ 22,104 | 🐛 1,532 | 🌐 C | 📅 2026-10-02 - A lean and efficient Python implementation for microcontrollers and constrained systems.
 * [pyodide](https://github.com/pyodide/pyodide) ⭐ 14,872 | 🐛 396 | 🌐 Python | 📅 2026-09-23 - Python distribution for the browser and Node.js based on WebAssembly.
 * [Cython](https://github.com/cython/cython) ⭐ 10,853 | 🐛 1,537 | 🌐 Cython | 📅 2026-10-02 - Optimizing Static Compiler for Python.
 * [pypy](https://github.com/pypy/pypy) ⭐ 1,806 | 🐛 716 | 🌐 Python | 📅 2026-10-02 - A very fast and compliant implementation of the Python language.
@@ -1022,24 +1022,24 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Functional Programming with Python.*
 
-* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 136 | 🌐 Python | 📅 2026-09-18 - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz](https://github.com/pytoolz/cytoolz/) ⭐ 1,114 | 🐛 34 | 🌐 Python | 📅 2026-09-18 for Cython-accelerated performance.
+* [toolz](https://github.com/pytoolz/toolz) ⭐ 5,157 | 🐛 138 | 🌐 Python | 📅 2026-09-18 - A collection of functional utilities for iterators, functions, and dictionaries. Also available as [cytoolz](https://github.com/pytoolz/cytoolz/) ⭐ 1,114 | 🐛 34 | 🌐 Python | 📅 2026-09-18 for Cython-accelerated performance.
 * [returns](https://github.com/dry-python/returns) ⭐ 4,372 | 🐛 81 | 🌐 Python | 📅 2026-10-02 - A set of type-safe monads, transformers, and composition utilities.
-* [more-itertools](https://github.com/more-itertools/more-itertools) ⭐ 4,097 | 🐛 8 | 🌐 Python | 📅 2026-09-29 - More routines for operating on iterables, beyond `itertools`.
+* [more-itertools](https://github.com/more-itertools/more-itertools) ⭐ 4,097 | 🐛 9 | 🌐 Python | 📅 2026-09-29 - More routines for operating on iterables, beyond `itertools`.
 * [funcy](https://github.com/Suor/funcy) ⭐ 3,510 | 🐛 7 | 🌐 Python | 📅 2026-09-27 - A fancy and practical functional tools.
 * [functools](https://docs.python.org/3/library/functools.html) - (Python standard library) Higher-order functions and operations on callable objects.
 
 ### Asynchronous Programming
 
-*Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,134 | 🐛 20 | 📅 2025-12-01.*
+*Libraries for asynchronous, concurrent and parallel execution. Also see [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,135 | 🐛 20 | 📅 2025-12-01.*
 
 * Async I/O
   * [uvloop](https://github.com/MagicStack/uvloop) ⭐ 11,907 | 🐛 163 | 🌐 Cython | 📅 2026-10-01 - Ultra fast asyncio event loop.
   * [trio](https://github.com/python-trio/trio) ⭐ 7,340 | 🐛 331 | 🌐 Python | 📅 2026-10-01 - A friendly library for async concurrency and I/O.
   * [gevent](https://github.com/gevent/gevent) ⭐ 6,447 | 🐛 133 | 🌐 Python | 📅 2026-09-16 - A coroutine-based Python networking library that uses [greenlet](https://github.com/python-greenlet/greenlet) ⭐ 1,852 | 🐛 23 | 🌐 C++ | 📅 2026-10-01.
   * [Twisted](https://github.com/twisted/twisted) ⭐ 5,992 | 🐛 2,832 | 🌐 Python | 📅 2026-09-28 - An event-driven networking engine.
-  * [anyio](https://github.com/agronholm/anyio) ⭐ 2,550 | 🐛 133 | 🌐 Python | 📅 2026-10-02 - A high-level async concurrency and networking framework that works on top of asyncio or trio.
+  * [anyio](https://github.com/agronholm/anyio) ⭐ 2,550 | 🐛 134 | 🌐 Python | 📅 2026-10-02 - A high-level async concurrency and networking framework that works on top of asyncio or trio.
   * [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
-    * [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,134 | 🐛 20 | 📅 2025-12-01
+    * [awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) ⭐ 5,135 | 🐛 20 | 📅 2025-12-01
 * Parallelism
   * [concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html) - (Python standard library) A high-level interface for asynchronously executing callables.
   * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - (Python standard library) Process-based parallelism.
@@ -1048,10 +1048,10 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for working with dates and times.*
 
-* [pendulum](https://github.com/python-pendulum/pendulum) ⭐ 6,676 | 🐛 261 | 🌐 Python | 📅 2026-09-29 - Python datetimes made easy.
+* [pendulum](https://github.com/python-pendulum/pendulum) ⭐ 6,676 | 🐛 262 | 🌐 Python | 📅 2026-09-29 - Python datetimes made easy.
 * [dateparser](https://github.com/scrapinghub/dateparser) ⭐ 2,862 | 🐛 305 | 🌐 Python | 📅 2026-10-02 - A Python parser for human-readable dates in over 200 language locales.
 * [python-dateutil](https://github.com/dateutil/dateutil) ⭐ 2,638 | 🐛 501 | 🌐 Python | 📅 2026-09-26 - Extensions to the standard Python [datetime](https://docs.python.org/3/library/datetime.html) module.
-* [whenever](https://github.com/ariebovenberg/whenever) ⭐ 2,406 | 🐛 6 | 🌐 Python | 📅 2026-10-02 - A modern datetime library, type-safe and DST-safe, in Rust or pure Python.
+* [whenever](https://github.com/ariebovenberg/whenever) ⭐ 2,406 | 🐛 5 | 🌐 Python | 📅 2026-10-03 - A modern datetime library, type-safe and DST-safe, in Rust or pure Python.
 * [zoneinfo](https://docs.python.org/3/library/zoneinfo.html) - (Python standard library) IANA time zone support. Brings the [tz database](https://en.wikipedia.org/wiki/Tz_database) into Python.
 
 **Python Toolchain**
@@ -1060,25 +1060,25 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for Python version and virtual environment management.*
 
-* [uv](https://github.com/astral-sh/uv) ⭐ 90,374 | 🐛 2,937 | 🌐 Rust | 📅 2026-10-02 - An extremely fast Python version, package and project manager, written in Rust.
-* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,120 | 🐛 51 | 🌐 Shell | 📅 2026-10-02 - Simple Python version management.
-* [virtualenv](https://github.com/pypa/virtualenv) ⭐ 5,052 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - A tool to create isolated Python environments.
+* [uv](https://github.com/astral-sh/uv) ⭐ 90,379 | 🐛 2,931 | 🌐 Rust | 📅 2026-10-03 - An extremely fast Python version, package and project manager, written in Rust.
+* [pyenv](https://github.com/pyenv/pyenv) ⭐ 45,121 | 🐛 52 | 🌐 Shell | 📅 2026-10-03 - Simple Python version management.
+* [virtualenv](https://github.com/pypa/virtualenv) ⭐ 5,052 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - A tool to create isolated Python environments.
 
 ### Package Management
 
 *Libraries for package and dependency management.*
 
 * Package Managers
-  * [uv](https://github.com/astral-sh/uv) ⭐ 90,374 | 🐛 2,937 | 🌐 Rust | 📅 2026-10-02 - An extremely fast Python version, package and project manager, written in Rust.
+  * [uv](https://github.com/astral-sh/uv) ⭐ 90,379 | 🐛 2,931 | 🌐 Rust | 📅 2026-10-03 - An extremely fast Python version, package and project manager, written in Rust.
   * [poetry](https://github.com/python-poetry/poetry) ⭐ 34,307 | 🐛 588 | 🌐 Python | 📅 2026-09-28 - Python dependency management and packaging made easy.
-  * [pipx](https://github.com/pypa/pipx) ⭐ 12,977 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
+  * [pipx](https://github.com/pypa/pipx) ⭐ 12,978 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Install and Run Python Applications in Isolated Environments. Like `npx` in Node.js.
   * [pip](https://github.com/pypa/pip) ⭐ 10,291 | 🐛 957 | 🌐 Python | 📅 2026-09-23 - The package installer for Python.
   * [conda](https://github.com/conda/conda/) ⭐ 7,522 | 🐛 651 | 🌐 Python | 📅 2026-10-02 - Cross-platform, Python-agnostic binary package manager.
   * [hatch](https://github.com/pypa/hatch) ⭐ 7,238 | 🐛 446 | 🌐 Python | 📅 2026-09-20 - Modern, extensible Python project manager for environments, builds, and publishing.
 * Build Backends
-  * [uv-build](https://github.com/astral-sh/uv) ⭐ 90,374 | 🐛 2,937 | 🌐 Rust | 📅 2026-10-02 - uv's fast, minimal build backend for pure-Python projects.
+  * [uv-build](https://github.com/astral-sh/uv) ⭐ 90,379 | 🐛 2,931 | 🌐 Rust | 📅 2026-10-03 - uv's fast, minimal build backend for pure-Python projects.
   * [hatchling](https://github.com/pypa/hatch) ⭐ 7,238 | 🐛 446 | 🌐 Python | 📅 2026-09-20 - Modern, extensible build backend from the hatch project.
-  * [setuptools](https://github.com/pypa/setuptools) ⭐ 2,865 | 🐛 702 | 🌐 Python | 📅 2026-09-10 - The historical and still most widely used pyproject build backend.
+  * [setuptools](https://github.com/pypa/setuptools) ⭐ 2,865 | 🐛 703 | 🌐 Python | 📅 2026-09-10 - The historical and still most widely used pyproject build backend.
   * [poetry-core](https://github.com/python-poetry/poetry-core) ⭐ 481 | 🐛 24 | 🌐 Python | 📅 2026-10-01 - Poetry's PEP 517 build backend, usable without Poetry itself.
 
 ### Package Repositories
@@ -1095,11 +1095,11 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 * Executables
   * [Nuitka](https://github.com/Nuitka/Nuitka) ⭐ 15,177 | 🐛 219 | 🌐 Python | 📅 2026-10-02 - Compiles Python programs into high-performance standalone executables (cross-platform).
-  * [pyinstaller](https://github.com/pyinstaller/pyinstaller) ⭐ 13,115 | 🐛 289 | 🌐 Python | 📅 2026-09-28 - Converts Python programs into stand-alone executables (cross-platform).
-  * [pex](https://github.com/pex-tool/pex) ⭐ 4,227 | 🐛 57 | 🌐 Python | 📅 2026-10-02 - A tool for building self-contained Python executable environments (PEP 441 zipapps).
+  * [pyinstaller](https://github.com/pyinstaller/pyinstaller) ⭐ 13,114 | 🐛 289 | 🌐 Python | 📅 2026-09-28 - Converts Python programs into stand-alone executables (cross-platform).
+  * [pex](https://github.com/pex-tool/pex) ⭐ 4,227 | 🐛 56 | 🌐 Python | 📅 2026-10-03 - A tool for building self-contained Python executable environments (PEP 441 zipapps).
   * [cx-Freeze](https://github.com/marcelotduarte/cx_Freeze) ⭐ 1,562 | 🐛 45 | 🌐 Python | 📅 2026-10-01 - Converts Python scripts into standalone executables and installers for Windows, macOS, and Linux.
 * Obfuscation
-  * [pyarmor](https://github.com/dashingsoft/pyarmor) ⭐ 5,206 | 🐛 16 | 🌐 Python | 📅 2026-09-19 - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
+  * [pyarmor](https://github.com/dashingsoft/pyarmor) ⭐ 5,206 | 🐛 14 | 🌐 Python | 📅 2026-09-19 - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 
 ### Configuration Files
 
@@ -1118,7 +1118,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 *Libraries for cryptographic primitives and secure protocols.*
 
 * [paramiko](https://github.com/paramiko/paramiko) ⭐ 9,874 | 🐛 1,200 | 🌐 Python | 📅 2026-08-29 - The leading native Python SSHv2 protocol library.
-* [cryptography](https://github.com/pyca/cryptography) ⭐ 7,795 | 🐛 34 | 🌐 Python | 📅 2026-10-02 - A package designed to expose cryptographic primitives and recipes to Python developers.
+* [cryptography](https://github.com/pyca/cryptography) ⭐ 7,794 | 🐛 35 | 🌐 Python | 📅 2026-10-02 - A package designed to expose cryptographic primitives and recipes to Python developers.
 * [itsdangerous](https://github.com/pallets/itsdangerous) ⭐ 3,137 | 🐛 5 | 🌐 Python | 📅 2025-06-14 - Safely pass trusted data to untrusted environments and back.
 * [pynacl](https://github.com/pyca/pynacl) ⭐ 1,207 | 🐛 64 | 🌐 C | 📅 2026-10-02 - Python binding to libsodium, a fork of the Networking and Cryptography (NaCl) library.
 
@@ -1126,17 +1126,17 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Frameworks and tools for penetration testing.*
 
-* [sherlock-project](https://github.com/sherlock-project/sherlock) ⭐ 93,151 | 🐛 354 | 🌐 Python | 📅 2026-10-02 - Hunt down social media accounts by username across social networks.
-* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,234 | 🐛 493 | 🌐 Python | 📅 2026-10-02 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* [sherlock-project](https://github.com/sherlock-project/sherlock) ⭐ 93,162 | 🐛 354 | 🌐 Python | 📅 2026-10-02 - Hunt down social media accounts by username across social networks.
+* [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 45,235 | 🐛 492 | 🌐 Python | 📅 2026-10-02 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 * [sqlmap](https://github.com/sqlmapproject/sqlmap) ⭐ 38,587 | 🐛 32 | 🌐 Python | 📅 2026-09-28 - Automatic SQL injection and database takeover tool.
-* [impacket](https://github.com/fortra/impacket) ⭐ 16,140 | 🐛 316 | 🌐 Python | 📅 2026-10-01 - A collection of Python classes for working with network protocols, widely used for Windows and Active Directory testing.
+* [impacket](https://github.com/fortra/impacket) ⭐ 16,142 | 🐛 316 | 🌐 Python | 📅 2026-10-01 - A collection of Python classes for working with network protocols, widely used for Windows and Active Directory testing.
 * [pwntools](https://github.com/Gallopsled/pwntools) ⭐ 13,737 | 🐛 126 | 🌐 Python | 📅 2026-09-03 - A CTF framework and exploit development library.
 
 ### Supply Chain Security
 
 *Tools for auditing dependencies against known vulnerabilities.*
 
-* [uv-audit](https://github.com/astral-sh/uv) ⭐ 90,374 | 🐛 2,937 | 🌐 Rust | 📅 2026-10-02 - (part of uv) uv's [dependency vulnerability scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
+* [uv-audit](https://github.com/astral-sh/uv) ⭐ 90,379 | 🐛 2,931 | 🌐 Rust | 📅 2026-10-03 - (part of uv) uv's [dependency vulnerability scanning](https://docs.astral.sh/uv/reference/cli/#uv-audit) backed by OSV.
 * [pip-audit](https://github.com/pypa/pip-audit) ⭐ 1,377 | 🐛 62 | 🌐 Python | 📅 2026-10-01 - Audits Python environments and dependency trees for known vulnerabilities, using the Python Packaging Advisory Database or OSV.
 
 ### Web Security
@@ -1152,7 +1152,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Libraries for programming with hardware.*
 
-* [pyserial](https://github.com/pyserial/pyserial) ⭐ 3,576 | 🐛 347 | 🌐 Python | 📅 2026-05-19 - Python serial port access library for Windows, macOS, Linux, and BSD.
+* [pyserial](https://github.com/pyserial/pyserial) ⭐ 3,576 | 🐛 348 | 🌐 Python | 📅 2026-05-19 - Python serial port access library for Windows, macOS, Linux, and BSD.
 * [bleak](https://github.com/hbldh/bleak) ⭐ 2,535 | 🐛 117 | 🌐 Python | 📅 2026-09-30 - A cross platform Bluetooth Low Energy Client for Python using asyncio.
 * [pynput](https://github.com/moses-palmer/pynput) ⭐ 2,171 | 🐛 203 | 🌐 Python | 📅 2026-05-12 - A library to control and monitor input devices.
 * [jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) ⭐ 223 | 🐛 104 | 🌐 Python | 📅 2026-10-02 - A hardware-in-the-loop testing framework with a Python client library for automated testing on real and virtual hardware.
@@ -1170,7 +1170,7 @@ An opinionated guide to the best Python frameworks, libraries, and tools.
 
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [boltons](https://github.com/mahmoud/boltons) ⭐ 6,932 | 🐛 106 | 🌐 Python | 📅 2026-09-23 - A set of pure-Python utilities.
+* [boltons](https://github.com/mahmoud/boltons) ⭐ 6,932 | 🐛 108 | 🌐 Python | 📅 2026-09-23 - A set of pure-Python utilities.
 * [blinker](https://github.com/pallets-eco/blinker) ⭐ 2,098 | 🐛 0 | 🌐 Python | 📅 2025-11-19 - A fast Python in-process signal/event dispatching system.
 
 ## Resources
@@ -1198,7 +1198,7 @@ Where to discover learning resources or new Python libraries.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) ⭐ 324,744 | 🐛 20 | 🌐 Python | 📅 2026-10-02 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
 ***
 
